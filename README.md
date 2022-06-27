@@ -1,6 +1,6 @@
 # MSS-results
 
-Visualizations of these results can be found below:  
+Visualizations of our results running the MSS model on various datasets can be found below:  
 ## *Drosophila*
 https://observablehq.com/@hverdonk/synrev-codon-drosophila  
 
