@@ -2,7 +2,8 @@
 
 Visualizations of our results running the MSS model on various datasets can be found below:  
 ## *Drosophila*
-https://observablehq.com/@hverdonk/synrev-codon-drosophila  
+**SynREV2:** https://observablehq.com/@hverdonk/synrev-codon-drosophila  
+**Model Comparison:** https://observablehq.com/@spond/visualizing-mss-model-results-for-drosophila-genes-take-2   
 
 ## *Caenorhabditis*
 https://observablehq.com/@hverdonk/synrev-codon-caenorhabditis   
@@ -10,7 +11,7 @@ https://observablehq.com/@hverdonk/synrev-codon-caenorhabditis
 ## *Saccharomyces*
 https://observablehq.com/@hverdonk/synrev-codon-saccharomyces  
 
-## *Definitions*
+# *Definitions*
 **Substitution Models**
 
 *MG94*: (Muse Gaut 1994 https://doi.org/10.1093/oxfordjournals.molbev.a040152 ) Actually a modified version of the Muse Gaut method that allows for transversion/transition substitution bias and varying nucleotide frequencies between positions in a codon (Pond & Frost 2004, https://doi.org/10.1093/molbev/msi131). 
@@ -24,7 +25,7 @@ Based on MG94,  but with two (or more) classes of synonymous substitutions.  In 
 
 *SynREVX*:	Each pair of synonymous codons that share an amino acid and that are reachable by one nucleotide substitution is given its own rate
 
-## Methods for Identifying the Neutral Set
+**Methods for Identifying the Neutral Set**  
 
 *FA1*:  Codons are identified using factor analysis, as in Rahman et al 2021.  Factor analysis is run on a table (genes by codons, using relative codon frequency within an amino acid) to identify the dominant pattern of covariation in codon frequency.  The logic is that some selective forces (e.g. gene expression) cause substs of codons to tend to become more common together in some genes. Codons that do not covary in frequency with others are likely to be more neutral.  The codons with the smallest absolute loading score for factor 1 are designated as Neutral. 
 
