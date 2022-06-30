@@ -24,13 +24,12 @@ Based on MG94,  but with two (or more) classes of synonymous substitutions.  In 
 
 *SynREVX*:	Each pair of synonymous codons that share an amino acid and that are reachable by one nucleotide substitution is given its own rate
 
-**Methods for Identifying the Neutral Set**
+## Methods for Identifying the Neutral Set
 
 *FA1*:  Codons are identified using factor analysis, as in Rahman et al 2021.  Factor analysis is run on a table (genes by codons, using relative codon frequency within an amino acid) to identify the dominant pattern of covariation in codon frequency.  The logic is that some selective forces (e.g. gene expression) cause substs of codons to tend to become more common together in some genes. Codons that do not covary in frequency with others are likely to be more neutral.  The codons with the smallest absolute loading score for factor 1 are designated as Neutral. 
 
-*MRM*: (Margins from Many Rates - ?Is there a better name?).  Run a model with many rates (e.g. SynREV2) over lots of genes and get a mean value for each of the rates.  The rates with the highest mean values are candidates for a Neutral class in a smaller MSS model. 
+*Margins from Many Rates (MMR)*:  Run a model with many rates (e.g. SynREV2) over lots of genes and get a mean value for each of the rates.  The rates with the highest mean values are candidates for a Neutral class in a smaller MSS model. 
 
-
-
+*CHC genetic algorithm*: An agggressive hill climber with dramtic mutagenesis & recombination. The model effectively uses small populations to converge to a good solution.
 
 
