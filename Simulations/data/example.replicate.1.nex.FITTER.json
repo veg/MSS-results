@@ -1,0 +1,206 @@
+{
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "contact":"spond@temple.edu",
+   "info":"Fit one of the available codon models to the data, report fit results and model estimates. Model specific options will differ.",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "version":"0.1"
+  },
+ "branch attributes":{
+   "0":{
+     "D_elegans_1":{
+       "Nucleotide GTR":0.04349922734002389,
+       "original name":"D_elegans_1"
+      },
+     "D_erecta_1":{
+       "Nucleotide GTR":0.0139090766453726,
+       "original name":"D_erecta_1"
+      },
+     "D_mauritiana_1":{
+       "Nucleotide GTR":0.003342378088491146,
+       "original name":"D_mauritiana_1"
+      },
+     "D_melanogaster_1":{
+       "Nucleotide GTR":0.01345692819611718,
+       "original name":"D_melanogaster_1"
+      },
+     "D_rhopaloa_1":{
+       "Nucleotide GTR":0.04121469901618954,
+       "original name":"D_rhopaloa_1"
+      },
+     "D_santomea_1":{
+       "Nucleotide GTR":0.003252568255579861,
+       "original name":"D_santomea_1"
+      },
+     "D_sechellia_1":{
+       "Nucleotide GTR":0.002010737484731324,
+       "original name":"D_sechellia_1"
+      },
+     "D_simulans_1":{
+       "Nucleotide GTR":0.000658863495332593,
+       "original name":"D_simulans_1"
+      },
+     "D_subpulchrella_paralog_0_1":{
+       "Nucleotide GTR":0.01984207731094517,
+       "original name":"D_subpulchrella_paralog_0_1"
+      },
+     "D_subpulchrella_paralog_1_1":{
+       "Nucleotide GTR":0.0102874578799649,
+       "original name":"D_subpulchrella_paralog_1_1"
+      },
+     "D_suzukii_paralog_0_1":{
+       "Nucleotide GTR":0.02075259954295424,
+       "original name":"D_suzukii_paralog_0_1"
+      },
+     "D_suzukii_paralog_1_1":{
+       "Nucleotide GTR":0.02871615909413115,
+       "original name":"D_suzukii_paralog_1_1"
+      },
+     "D_takahashii_1":{
+       "Nucleotide GTR":0.009339644247954446,
+       "original name":"D_takahashii_1"
+      },
+     "D_yakuba_1":{
+       "Nucleotide GTR":0.00200042161125139,
+       "original name":"D_yakuba_1"
+      },
+     "Node11":{
+       "Nucleotide GTR":0.01082813455537615
+      },
+     "Node13":{
+       "Nucleotide GTR":0.07524844440230376
+      },
+     "Node14":{
+       "Nucleotide GTR":0.03923721138766186
+      },
+     "Node15":{
+       "Nucleotide GTR":0.006399616236879624
+      },
+     "Node18":{
+       "Nucleotide GTR":0.006220243120276799
+      },
+     "Node2":{
+       "Nucleotide GTR":0.002769499911845008
+      },
+     "Node21":{
+       "Nucleotide GTR":0.01869980324480878
+      },
+     "Node23":{
+       "Nucleotide GTR":0.0509080057020046
+      },
+     "Node3":{
+       "Nucleotide GTR":0.01692636188871001
+      },
+     "Node4":{
+       "Nucleotide GTR":0.003332454136504494
+      },
+     "Node7":{
+       "Nucleotide GTR":0.004742794191102766
+      }
+    },
+   "attributes":{
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499] 
+      ],
+     "name":"fitter.filter.default"
+    }
+  },
+ "fits":{
+   "Codon model":{
+     "AIC-c":10254.60254754912,
+     "Log Likelihood":-5086.053788865105,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.4508324879180057,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.4045674817183505,
+       "Substitution rate from nucleotide C to nucleotide G":0.4231639622969814,
+       "Substitution rate from nucleotide C to nucleotide T":0.8875743208767212,
+       "Substitution rate from nucleotide G to nucleotide T":0.2854665391918523,
+       "non-synonymous/synonymous rate ratio":0.1057922142009118,
+       "synonymous rate within codon class SELECTED":0.8161211997248928
+      },
+     "display order":1,
+     "estimated parameters":41
+    },
+   "Nucleotide GTR":{
+     "AIC-c":11193.66896155219,
+     "Equilibrium frequencies":      [
+[0.2310476190476191],
+      [0.2885714285714286],
+      [0.2923809523809524],
+      [0.188] 
+      ],
+     "Log Likelihood":-5563.780965560985,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.391431560555389,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.347375922904252,
+       "Substitution rate from nucleotide C to nucleotide G":0.6649036864698195,
+       "Substitution rate from nucleotide C to nucleotide T":1.693834272197467,
+       "Substitution rate from nucleotide G to nucleotide T":0.3144413244794972
+      },
+     "display order":0,
+     "estimated parameters":33
+    }
+  },
+ "input":{
+   "file name":"/Users/sergei/Development/MSS-results/Simulations/data/example.replicate.1.nex",
+   "number of sequences":14,
+   "number of sites":500,
+   "partition count":1,
+   "trees":{
+     "0":"(D_santomea_1,(((D_mauritiana_1,D_simulans_1)Node4,(D_sechellia_1,D_melanogaster_1)Node7)Node3,D_yakuba_1)Node2,(D_erecta_1,(((D_suzukii_paralog_1_1,D_suzukii_paralog_0_1)Node15,(D_subpulchrella_paralog_1_1,D_subpulchrella_paralog_0_1)Node18)Node14,(D_takahashii_1,(D_rhopaloa_1,D_elegans_1)Node23)Node21)Node13)Node11)"
+    }
+  },
+ "tested":{
+   "0":{
+     "D_elegans_1":"test",
+     "D_erecta_1":"test",
+     "D_mauritiana_1":"test",
+     "D_melanogaster_1":"test",
+     "D_rhopaloa_1":"test",
+     "D_santomea_1":"test",
+     "D_sechellia_1":"test",
+     "D_simulans_1":"test",
+     "D_subpulchrella_paralog_0_1":"test",
+     "D_subpulchrella_paralog_1_1":"test",
+     "D_suzukii_paralog_0_1":"test",
+     "D_suzukii_paralog_1_1":"test",
+     "D_takahashii_1":"test",
+     "D_yakuba_1":"test",
+     "Node11":"test",
+     "Node13":"test",
+     "Node14":"test",
+     "Node15":"test",
+     "Node18":"test",
+     "Node2":"test",
+     "Node21":"test",
+     "Node23":"test",
+     "Node3":"test",
+     "Node4":"test",
+     "Node7":"test"
+    }
+  },
+ "timers":{
+   "MSS":{
+     "order":null,
+     "timer":3
+    },
+   "Overall":{
+     "order":0,
+     "timer":4
+    }
+  }
+}
