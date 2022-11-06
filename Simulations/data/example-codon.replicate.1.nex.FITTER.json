@@ -1,0 +1,272 @@
+{
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "contact":"spond@temple.edu",
+   "info":"Fit one of the available codon models to the data, report fit results and model estimates. Model specific options will differ.",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "version":"0.1"
+  },
+ "branch attributes":{
+   "0":{
+     "D_elegans_1":{
+       "Nucleotide GTR":0.04313607946538247,
+       "original name":"D_elegans_1"
+      },
+     "D_erecta_1":{
+       "Nucleotide GTR":0.01282326049172677,
+       "original name":"D_erecta_1"
+      },
+     "D_mauritiana_1":{
+       "Nucleotide GTR":0.003993645007287721,
+       "original name":"D_mauritiana_1"
+      },
+     "D_melanogaster_1":{
+       "Nucleotide GTR":0.01892761440644673,
+       "original name":"D_melanogaster_1"
+      },
+     "D_rhopaloa_1":{
+       "Nucleotide GTR":0.03842946624695794,
+       "original name":"D_rhopaloa_1"
+      },
+     "D_santomea_1":{
+       "Nucleotide GTR":0.009056946763522446,
+       "original name":"D_santomea_1"
+      },
+     "D_sechellia_1":{
+       "Nucleotide GTR":0.001994701143386009,
+       "original name":"D_sechellia_1"
+      },
+     "D_simulans_1":{
+       "Nucleotide GTR":0.001350181914215236,
+       "original name":"D_simulans_1"
+      },
+     "D_subpulchrella_paralog_0_1":{
+       "Nucleotide GTR":0.01372609339018387,
+       "original name":"D_subpulchrella_paralog_0_1"
+      },
+     "D_subpulchrella_paralog_1_1":{
+       "Nucleotide GTR":0.01195405686853263,
+       "original name":"D_subpulchrella_paralog_1_1"
+      },
+     "D_suzukii_paralog_0_1":{
+       "Nucleotide GTR":0.02540541564523845,
+       "original name":"D_suzukii_paralog_0_1"
+      },
+     "D_suzukii_paralog_1_1":{
+       "Nucleotide GTR":0.03306949272133646,
+       "original name":"D_suzukii_paralog_1_1"
+      },
+     "D_takahashii_1":{
+       "Nucleotide GTR":0.008554850755967399,
+       "original name":"D_takahashii_1"
+      },
+     "D_yakuba_1":{
+       "Nucleotide GTR":0.0007111671869683277,
+       "original name":"D_yakuba_1"
+      },
+     "Node11":{
+       "Nucleotide GTR":0.01605327728856168
+      },
+     "Node13":{
+       "Nucleotide GTR":0.07654084639177842
+      },
+     "Node14":{
+       "Nucleotide GTR":0.04340185243389823
+      },
+     "Node15":{
+       "Nucleotide GTR":0.006552625791903521
+      },
+     "Node18":{
+       "Nucleotide GTR":0.009058038049053429
+      },
+     "Node2":{
+       "Nucleotide GTR":0.002363324698638137
+      },
+     "Node21":{
+       "Nucleotide GTR":0.01247762189042181
+      },
+     "Node23":{
+       "Nucleotide GTR":0.06858599235258363
+      },
+     "Node3":{
+       "Nucleotide GTR":0.02577337120021572
+      },
+     "Node4":{
+       "Nucleotide GTR":0.001050180536310731
+      },
+     "Node7":{
+       "Nucleotide GTR":0.002353210091857736
+      }
+    },
+   "attributes":{
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499] 
+      ],
+     "name":"fitter.filter.default"
+    }
+  },
+ "fits":{
+   "Codon model":{
+     "AIC-c":10634.18297459289,
+     "Log Likelihood":-5208.414760656862,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.6428447071976563,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.5740302540518762,
+       "Substitution rate from nucleotide C to nucleotide G":0.378516833617875,
+       "Substitution rate from nucleotide C to nucleotide T":0.6712419672501186,
+       "Substitution rate from nucleotide G to nucleotide T":0.5161249379183385,
+       "non-synonymous/synonymous rate ratio":0.2121139289473839,
+       "synonymous rate between codon classes AAA and AAG":1.607725735635365,
+       "synonymous rate between codon classes AAC and AAT":3.057631790248023,
+       "synonymous rate between codon classes ACA and ACC":1.469935328186386,
+       "synonymous rate between codon classes ACA and ACG":2.350561233423202,
+       "synonymous rate between codon classes ACA and ACT":0,
+       "synonymous rate between codon classes ACC and ACG":3.567301886675101,
+       "synonymous rate between codon classes ACC and ACT":3.050426662717824,
+       "synonymous rate between codon classes ACG and ACT":1.112375670316153,
+       "synonymous rate between codon classes AGA and AGG":3.223426479211248,
+       "synonymous rate between codon classes AGA and CGA":1.280971077220427,
+       "synonymous rate between codon classes AGC and AGT":4.140431119998174,
+       "synonymous rate between codon classes AGG and CGG":1.392122035478851,
+       "synonymous rate between codon classes ATA and ATC":0,
+       "synonymous rate between codon classes ATA and ATT":3.469444637204157,
+       "synonymous rate between codon classes ATC and ATT":3.293309574984119,
+       "synonymous rate between codon classes CAA and CAG":2.53876534887548,
+       "synonymous rate between codon classes CAC and CAT":2.755796633471827,
+       "synonymous rate between codon classes CCA and CCC":0,
+       "synonymous rate between codon classes CCA and CCG":0,
+       "synonymous rate between codon classes CCA and CCT":0,
+       "synonymous rate between codon classes CCC and CCG":5.20151117931163,
+       "synonymous rate between codon classes CCC and CCT":3.42873172335466,
+       "synonymous rate between codon classes CCG and CCT":2.34740073392247,
+       "synonymous rate between codon classes CGA and CGC":1.208343799320667,
+       "synonymous rate between codon classes CGA and CGG":0.8589714114904589,
+       "synonymous rate between codon classes CGA and CGT":1.774300555157576,
+       "synonymous rate between codon classes CGC and CGG":3.318698744666214,
+       "synonymous rate between codon classes CGC and CGT":3.428056948674166,
+       "synonymous rate between codon classes CGG and CGT":2.267401458027714,
+       "synonymous rate between codon classes CTA and CTC":3.128914784276633,
+       "synonymous rate between codon classes CTA and CTG":2.524202111739378,
+       "synonymous rate between codon classes CTA and CTT":0,
+       "synonymous rate between codon classes CTA and TTA":1.960493296102701,
+       "synonymous rate between codon classes CTC and CTG":3.529412336312574,
+       "synonymous rate between codon classes CTC and CTT":5.299390735195801,
+       "synonymous rate between codon classes CTG and CTT":2.093220276592558,
+       "synonymous rate between codon classes CTG and TTG":2.917922611178141,
+       "synonymous rate between codon classes GAA and GAG":1.342831180639034,
+       "synonymous rate between codon classes GAC and GAT":3.681780677192349,
+       "synonymous rate between codon classes GCA and GCC":0.3314981022987534,
+       "synonymous rate between codon classes GCA and GCG":1.912186942491028,
+       "synonymous rate between codon classes GCA and GCT":2.424575811015484,
+       "synonymous rate between codon classes GCC and GCG":2.332845362444784,
+       "synonymous rate between codon classes GCC and GCT":3.723402795473851,
+       "synonymous rate between codon classes GCG and GCT":2.449686434288216,
+       "synonymous rate between codon classes GGA and GGC":1.067095096371375,
+       "synonymous rate between codon classes GGA and GGG":2.865263744879024,
+       "synonymous rate between codon classes GGA and GGT":0,
+       "synonymous rate between codon classes GGC and GGG":0.4510680954905685,
+       "synonymous rate between codon classes GGC and GGT":5.672207647715499,
+       "synonymous rate between codon classes GGG and GGT":2.625338331836625,
+       "synonymous rate between codon classes GTA and GTC":2.047039181965398,
+       "synonymous rate between codon classes GTA and GTG":1.277683815842759,
+       "synonymous rate between codon classes GTA and GTT":1.839990323663639,
+       "synonymous rate between codon classes GTC and GTG":2.406270938583626,
+       "synonymous rate between codon classes GTC and GTT":2.188903424807434,
+       "synonymous rate between codon classes GTG and GTT":3.418340961169839,
+       "synonymous rate between codon classes TAC and TAT":3.200365734550053,
+       "synonymous rate between codon classes TCA and TCC":1.052464994698795,
+       "synonymous rate between codon classes TCA and TCG":3.445906298005875,
+       "synonymous rate between codon classes TCA and TCT":0,
+       "synonymous rate between codon classes TCC and TCG":1.593628346981276,
+       "synonymous rate between codon classes TCC and TCT":4.48757250239029,
+       "synonymous rate between codon classes TCG and TCT":2.748029315760987,
+       "synonymous rate between codon classes TGC and TGT":2.838370765541403,
+       "synonymous rate between codon classes TTA and TTG":3.273015639245403,
+       "synonymous rate between codon classes TTC and TTT":4.966124305590302
+      },
+     "display order":1,
+     "estimated parameters":107
+    },
+   "Nucleotide GTR":{
+     "AIC-c":11671.49767428173,
+     "Equilibrium frequencies":      [
+[0.2125238095238095],
+      [0.2916666666666667],
+      [0.2960952380952381],
+      [0.1997142857142857] 
+      ],
+     "Log Likelihood":-5802.695321925756,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.4197064171102655,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.3649082786365005,
+       "Substitution rate from nucleotide C to nucleotide G":0.7576060118927751,
+       "Substitution rate from nucleotide C to nucleotide T":1.977973459529679,
+       "Substitution rate from nucleotide G to nucleotide T":0.561743909552169
+      },
+     "display order":0,
+     "estimated parameters":33
+    }
+  },
+ "input":{
+   "file name":"/Users/sergei/Development/MSS-results/Simulations/data/example-codon.replicate.1.nex",
+   "number of sequences":14,
+   "number of sites":500,
+   "partition count":1,
+   "trees":{
+     "0":"(D_santomea_1,(((D_mauritiana_1,D_simulans_1)Node4,(D_sechellia_1,D_melanogaster_1)Node7)Node3,D_yakuba_1)Node2,(D_erecta_1,(((D_suzukii_paralog_1_1,D_suzukii_paralog_0_1)Node15,(D_subpulchrella_paralog_1_1,D_subpulchrella_paralog_0_1)Node18)Node14,(D_takahashii_1,(D_rhopaloa_1,D_elegans_1)Node23)Node21)Node13)Node11)"
+    }
+  },
+ "tested":{
+   "0":{
+     "D_elegans_1":"test",
+     "D_erecta_1":"test",
+     "D_mauritiana_1":"test",
+     "D_melanogaster_1":"test",
+     "D_rhopaloa_1":"test",
+     "D_santomea_1":"test",
+     "D_sechellia_1":"test",
+     "D_simulans_1":"test",
+     "D_subpulchrella_paralog_0_1":"test",
+     "D_subpulchrella_paralog_1_1":"test",
+     "D_suzukii_paralog_0_1":"test",
+     "D_suzukii_paralog_1_1":"test",
+     "D_takahashii_1":"test",
+     "D_yakuba_1":"test",
+     "Node11":"test",
+     "Node13":"test",
+     "Node14":"test",
+     "Node15":"test",
+     "Node18":"test",
+     "Node2":"test",
+     "Node21":"test",
+     "Node23":"test",
+     "Node3":"test",
+     "Node4":"test",
+     "Node7":"test"
+    }
+  },
+ "timers":{
+   "MSS":{
+     "order":null,
+     "timer":35
+    },
+   "Overall":{
+     "order":0,
+     "timer":35
+    }
+  }
+}
