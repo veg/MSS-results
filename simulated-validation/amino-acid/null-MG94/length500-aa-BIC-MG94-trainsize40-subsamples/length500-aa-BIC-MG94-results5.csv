@@ -1,2 +1,0 @@
-filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
-length500-aa-BIC-MG94-output5.tsv,22,0.9575834032368777,0,,0,,37,0.3630690194582217,0.3728813559322034,1.0,0.3728813559322034,0.54320987654321,"['TGC', 'TGT', 'ATA', 'ATC', 'ATT', 'AAA', 'AAG', 'CTA', 'CTC', 'CTG', 'CTT', 'TTA', 'TTG', 'AAC', 'AAT', 'CCA', 'CCC', 'CCG', 'CCT', 'CAA', 'CAG', 'AGC', 'AGT', 'TCA', 'TCC', 'TCG', 'TCT', 'TAC', 'TAT']",0.4513036095180205
