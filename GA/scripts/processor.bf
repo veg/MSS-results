@@ -30,6 +30,7 @@ for (m, s; in;  mss.json["masterList"] ) {
     mss.models [k] = s;
 }
 
+
 mss.aw = 0;
 
 for (k, s; in; mss.models) {
@@ -53,6 +54,7 @@ mss.SN_MA_rate = {mss.dimension, 1};
 
 for (k, s; in; mss.filtered) {
     nr = 0;
+    mss.rd =  utility.Array1D (s);
     rates = {{1,s[mss.rd-1]}};
     if (s[ mss.rd - 1] > 1) { // rate class 1 is NEUTRAL
         nr = 1;
