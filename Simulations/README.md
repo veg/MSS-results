@@ -21,7 +21,7 @@ To simulate some data, assuming a specific partitioning of amino-acids into neut
 hyphy /path/to/hyphy-analyses/SimulateMG94/SimulateMG94.bf 
 --model MSS  
 --replicates 5   
---codons 300 
+--sites 300 
 --branch-variation constant-mss  
 --mss-file specification.tsv  
 --mss-neutral NEUTRAL  
@@ -83,7 +83,7 @@ What you need
 hyphy /path/to/hyphy-analyses/SimulateMG94/SimulateMG94.bf 
 --model MSS  
 --replicates 5   
---codons 300 
+--sites 300 
 --branch-variation constant-mss  
 --mss-type SynREVCodon
 --tree tree.nwk 

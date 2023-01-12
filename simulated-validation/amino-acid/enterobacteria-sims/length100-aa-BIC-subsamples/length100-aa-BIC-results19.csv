@@ -1,0 +1,2 @@
+filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
+length100-aa-BIC-output19.tsv,18,0.9982528807014069,14,0.01565912104624206,25,0.2903197785525033,2,0.404820989424631,0.5423728813559322,0.4186046511627907,0.9,0.5714285714285715,"['TGC', 'TGT', 'TTC', 'TTT', 'GGA', 'GGC', 'GGG', 'GGT', 'ATA', 'ATC', 'ATT', 'AAC', 'AAT', 'AGA', 'AGG', 'CGA', 'CGC', 'CGG', 'CGT', 'AGC', 'AGT', 'TCA', 'TCC', 'TCG', 'TCT', 'TAC', 'TAT']",0.2988013497282165
