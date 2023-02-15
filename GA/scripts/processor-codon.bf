@@ -1,21 +1,51 @@
-RequireVersion ("2.5.34");
+RequireVersion ("2.5.47");
 
 LoadFunctionLibrary ("libv3/all-terms.bf");
 LoadFunctionLibrary ("libv3/convenience/regexp.bf");
 LoadFunctionLibrary ("libv3/convenience/math.bf");
 LoadFunctionLibrary ("libv3/IOFunctions.bf");
 LoadFunctionLibrary ("libv3/tasks/alignments.bf");
+LoadFunctionLibrary("libv3/models/codon/MSS.bf");
 
 
 KeywordArgument ("json","MSS-Selector output .JSON file",None);
 mss.json = io.ParseJSON(io.PromptUserForFilePathRead ("MSS-Selector output .JSON file"));
 mss.cutoff = 0.5;
 
+KeywordArgument ("code",        "Which genetic code should be used", "Universal");  
+mss.genetic_code = alignments.LoadGeneticCode (None);
+
+ExecuteCommands ( "mss.codon_classes = model.codon.MSS.prompt_and_define (terms.global, mss.genetic_code[terms.code])", 
+                                       {"--mss-type" : "SynREVCodon"}
+                                    );
+                                    
+
+function mss.MSS_generator (type) {
+    model = Call ("models.codon.MSS.ModelDescription",type, mss.genetic_code[terms.code], mss.codon_classes);
+    model["frequency-estimator"] = "frequencies.equal";
+    return model;
+}
+
+                                    
+mss.model = model.generic.DefineModel("mss.MSS_generator", "mss.model_object", {
+            "0": "terms.global"
+        }, None, None);
+        
+mss.mss_rate_list = model.GetParameters_RegExp( mss.model ,"^" + terms.parameters.synonymous_rate + "");
+mss.rate_labels   = {};
+
+
+aa = genetic_code.DefineCodonToAAMapping(mss.genetic_code[terms.code]);
+
 mss.mapping = {};
 
-for (k; in; mss.json ["mapping"]) {
-    mss.mapping + k[Abs(k)-1];
+for (k, v; in; mss.mss_rate_list ) {
+    tag = regexp.Split (k, terms.model.MSS.between + " ");
+    tag = regexp.Split (tag[1], " and ");
+    mss.rate_labels + {{tag__[0],tag__[1]}}
+    mss.mapping + aa [tag[0]];
 }
+                                
 
 mss.bestScore = 1e100;
 mss.models = {};
@@ -103,8 +133,6 @@ for (k, s; in; mss.filtered) {
 }
 
 
-KeywordArgument ("code",        "Which genetic code should be used", "Universal");  
-mss.genetic_code = alignments.LoadGeneticCode (None);
 
 mss.aa2codon = {};
 
@@ -118,8 +146,7 @@ for (codon, aa; in; mss.genetic_code["mapping"]) {
 KeywordArgument ("tsv",        "Output model partition");  
 mss.output = io.PromptUserForFilePath ("Output model partition");
 
-
-fprintf (mss.output, "AminoAcid\tCODON\tGROUP\tSUPPORT\n");
+fprintf (mss.output, "AminoAcid\tCODON1\tCODON2\tGROUP\tSUPPORT\n");
 
 for (k = 0; k < mss.dimension; k +=1) {
     label = "";
@@ -143,7 +170,5 @@ for (k = 0; k < mss.dimension; k +=1) {
     //console.log ( label);
     if (Abs (label) == 0 ) {label = "AMBIGUOUS"; support = Max ( mss.SN_profile[k][-1],0);}
     aa = mss.mapping [k];
-    for (codon; in; mss.aa2codon [aa]) {
-        fprintf (mss.output, aa, "\t", codon, "\t", label, "\t",support, "\n");
-    }
+    fprintf (mss.output, aa, "\t", (mss.rate_labels[k])[0], "\t", (mss.rate_labels[k])[1], "\t", label, "\t",support, "\n");
 }
