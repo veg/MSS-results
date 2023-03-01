@@ -1,0 +1,1894 @@
+{
+ "file":"/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-results/enterobacteria-subsamples/enterobacteria-subsample4.json",
+ "files":  [
+["/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/yrfG_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/trmA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/citG_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/hybB_9_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nudC_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/argH_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/clpB_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/phnF_10_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/btuD_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nikA_10_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/speA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/leuS_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nrdF_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/glgA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/galK_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/xseA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/acrA_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/aroG_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/msrA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/add_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/lsrR_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ubiF_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/fruA_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/thyA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/glnA_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nadE_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/glnG_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/pdeR_10_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dmsD_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/lpoB_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gppA_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gutQ_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gmd_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/menF_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/sltY_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/pyrC_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rpoC_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/yiaY_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/purR_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rlmA_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/metF_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/glyS_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ispD_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/bamD_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nuoJ_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dksA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/smpB_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/flhB_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/sufB_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nuoI_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ybgC_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/galM_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/fldB_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/anmK_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/eamA_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/tssA_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/garD_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/tyrR_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nirD_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/paaA_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rhlE_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/metN_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/pstB_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dsbG_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/speF_9_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/narX_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/potG_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/yfcD_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/potB_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ldcA_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/recF_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/potH_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/galE_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/aas_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rlmF_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rimP_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/arcC_9_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ftnA_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/cheR_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dnaG_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/malK_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dapE_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ascB_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ftsX_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gltP_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rihA_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/sbmC_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/rssA_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/folA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gabT_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dnaQ_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/pgl_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/asnB_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/gltL_8_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/ilvA_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/metK_14_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/nadB_13_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/yjiA_12_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/fliZ_11_species_with_raxml_bestTree.msa", "/data/shares/veg/hverdonk/enterobacteria_15species_alignments-MSS/GA-alignments/dsdA_13_species_with_raxml_bestTree.msa"] 
+  ],
+ "mapping":  [
+["mss_0.model_object.alpha_A"],
+  ["mss_0.model_object.alpha_C"],
+  ["mss_0.model_object.alpha_D"],
+  ["mss_0.model_object.alpha_E"],
+  ["mss_0.model_object.alpha_F"],
+  ["mss_0.model_object.alpha_G"],
+  ["mss_0.model_object.alpha_H"],
+  ["mss_0.model_object.alpha_I"],
+  ["mss_0.model_object.alpha_K"],
+  ["mss_0.model_object.alpha_L"],
+  ["mss_0.model_object.alpha_N"],
+  ["mss_0.model_object.alpha_P"],
+  ["mss_0.model_object.alpha_Q"],
+  ["mss_0.model_object.alpha_R"],
+  ["mss_0.model_object.alpha_S"],
+  ["mss_0.model_object.alpha_T"],
+  ["mss_0.model_object.alpha_V"],
+  ["mss_0.model_object.alpha_Y"] 
+  ],
+ "masterList":{
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1466604.566371028, -709153.9928109917, 1] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466600.600583556, -709145.4550067305, 1, 1.051558350731212] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465762.563442003, -708726.4364359544, 1, 1.299051142864434] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466470.945499206, -709080.6274645556, 1, 1.110228229481632] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466532.94522091, -709111.6273254078, 1, 1.140095625597843] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465679.686434892, -708684.9979323985, 1, 0.7338006800799849] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465679.441970931, -708684.8757004183, 1, 0.7629660237003811] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466609.333589602, -709149.8215097536, 1, 0.9788424669563351] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466310.876924407, -709000.5931771559, 1, 1.167642365333586] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466452.116763863, -709071.2130968842, 1, 0.8641348649997956] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466203.584452948, -708946.9469414265, 1, 1.177933553048717] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465301.793172447, -708496.0513011763, 1, 0.7165620740965534] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465304.644614933, -708497.4770224193, 1, 0.741457870432757] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466313.108916319, -709001.7091731121, 1, 0.8806814556260953] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1465735.927217361, -708713.1183236332, 1, 0.7795461860118975] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465683.473710638, -708686.8915702719, 1, 0.7905793832059018] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465378.988579037, -708534.649004471, 1, 0.7724939605227784] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466072.684494386, -708881.4969621459, 1, 0.843862693814488] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465444.27776728, -708567.2935985926, 1, 0.7527342898487052] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465403.251854853, -708546.7806423791, 1, 0.7664101699165372] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465509.94297896, -708600.1262044327, 1, 0.7830802245716628] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465627.263559219, -708658.7864945623, 1, 0.7924966374632136] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465549.513538638, -708619.9114842719, 1, 0.7512774238163966] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465513.787648932, -708602.0485394187, 1, 0.7672409208960266] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465833.282264753, -708761.7958473293, 1, 0.8108208238316793] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466476.838053734, -709083.5737418195, 1, 0.922793296814379] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465576.828145365, -708633.568787635, 1, 0.7870868504191143] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466301.405101694, -708995.8572657997, 1, 1.126628467814926] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466617.691642963, -709154.000536434, 1, 0.9974573239860742] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466616.649045502, -709153.4792377037, 1, 0.9914969385635246] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465552.758563888, -708621.5339968967, 1, 0.7630999129310665] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465497.693430898, -708594.0014304017, 1, 0.7741242724099175] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465795.944686949, -708743.127058427, 1, 0.812452150147547] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465503.834595582, -708597.0720127434, 1, 0.7917750313590304] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465618.342488853, -708654.3259593792, 1, 0.7843537949991652] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465544.60201855, -708617.4557242275, 1, 0.7899570046117577] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465521.350193476, -708605.8298116906, 1, 0.8016648621292748] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465661.42066104, -708675.8650454725, 1, 0.7941196660913442] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1465919.686882242, -708804.9981560739, 1, 1.284049074255571] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1} \n}":    [
+[1466080.465823209, -708885.3876265573, 1, 1.2262945628967] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465951.289679439, -708820.799554672, 1, 1.217719438097932] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466044.429958261, -708867.3696940833, 1, 1.185875669303797] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466151.644028267, -708920.9767290863, 1, 0.8441137421597428] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466605.210051206, -709147.7597405555, 1, 0.9765228494218572] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1} \n}":    [
+[1466404.54453981, -709047.4269848579, 1, 0.9013138109651508] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0} \n}":    [
+[1466418.802671949, -709054.5560509274, 1, 1.152818674403698] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466614.929452459, -709152.6194411822, 1, 0.9845477830395825] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466542.444247719, -709116.3768388124, 1, 1.065236517980056] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465541.814419618, -708616.0619247617, 1, 0.7686567286404383] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466538.422535638, -709114.3659827717, 1, 0.938076005136296] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465856.925147814, -708773.6172888596, 1, 0.8129211801307286] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466521.924063883, -709106.116746894, 1, 0.9400898382082906] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466024.273335271, -708857.2913825882, 1, 1.190664188853827] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466197.962124825, -708944.1357773651, 1, 1.14074058281991] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466286.222922982, -708988.2661764439, 1, 0.8656537451891596] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466586.227672618, -709138.2685512615, 1, 0.9644898800348778] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466616.055218145, -709153.1823240254, 1, 0.9891605501300088] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466480.153870319, -709085.231650112, 1, 1.088040782886344] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465942.409937513, -708816.3596837092, 1, 0.8312239559219524] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466522.249325155, -709106.2793775303, 1, 1.07351562521859] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466541.160624666, -709115.7350272859, 1, 0.9369992510536735] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465524.871921659, -708607.5906757822, 1, 0.773176873541235] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465450.228443562, -708570.2689367338, 1, 0.7791876031858713] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465572.967656889, -708631.6385433972, 1, 0.7896843715429372] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465485.292438234, -708587.8009340697, 1, 0.7921212880919402] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465857.335129523, -708773.8222797143, 1, 0.828222373642746] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465623.26495222, -708656.7871910626, 1, 0.8067017189092858] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466615.445370813, -709152.877400359, 1, 1.014003290524538] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466606.088278087, -709148.1988539962, 1, 1.02997484365654] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466298.330234904, -708994.3198324046, 1, 1.140868187796398] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466464.101069894, -709077.2052498998, 1, 1.087097570037308] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466387.154972983, -709038.7322014443, 1, 0.9052852302177905] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1} \n}":    [
+[1466562.264372142, -709126.2869010237, 1, 1.051401150540635] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465661.631769987, -708675.9705999461, 1, 0.797585403580047] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465566.663236206, -708628.4863330558, 1, 0.7980908763120176] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465677.675278831, -708683.9923543682, 1, 0.8078832954697909] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465575.542939318, -708632.9261846116, 1, 0.8061452378370261] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465511.773452165, -708601.0414410352, 1, 0.809452110776348] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465697.707271154, -708694.0083505298, 1, 0.8127748260435157] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465901.479827034, -708795.8946284696, 1, 0.8431104568958647] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466059.372350812, -708874.8408903586, 1, 0.861376875333391] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466509.096856343, -709099.703143124, 1, 0.9389756888771028] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466254.748129639, -708972.5287797722, 1, 1.136540929875667] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466243.864606633, -708967.0870182692, 1, 0.8752109722318738] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466233.819932626, -708962.0646812659, 1, 0.8792343745318588] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465881.205923415, -708785.75767666, 1, 0.8300561892613662] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466511.054011937, -709100.6817209212, 1, 0.9373033006456869] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465881.647571308, -708785.9785006068, 1, 0.8369453552055355] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466445.112202188, -709067.7108160466, 1, 0.9224165552052703] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466529.599219595, -709109.9543247503, 1, 0.946026401103481] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466258.768438515, -708974.53893421, 1, 1.134398510310324] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466303.008065847, -708996.6587478764, 1, 1.126964223183573] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0} \n}":    [
+[1466574.099657584, -709132.2045437448, 1, 0.9612404921588326] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1} \n}":    [
+[1466604.939090717, -709147.624260311, 1, 0.9696468874446835] 
+    ],
+   "{\n{0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466555.49709811, -709122.9032640078, 1, 1.050154361831291] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466183.236956456, -708936.7731931806, 1, 1.180155572205076] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465775.845585108, -708733.0775075065, 1, 0.7996062175469716] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465378.439820814, -708534.3746253599, 1, 0.7378056122032464] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465347.570022941, -708518.9397264234, 1, 0.7547966548717517] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465387.268732155, -708538.7890810304, 1, 0.7789567749812092] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465479.934440306, -708585.1219351059, 1, 0.7652785666721053] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465419.774060047, -708555.0417449764, 1, 0.7745795865672196] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465686.920996399, -708688.615213152, 1, 0.8027188935325877] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0} \n}":    [
+[1466169.598817659, -708929.9541237821, 1, 1.197709158001966] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466299.714352737, -708995.0118913212, 1, 1.137419874000261] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465585.01243396, -708637.6609319329, 1, 0.7751618456349757] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465513.348996498, -708601.8292132017, 1, 0.7821708065430852] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465629.658085379, -708659.983757642, 1, 0.791929263000769] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465544.525865354, -708617.4176476296, 1, 0.7947315347236247] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466445.179385849, -709067.7444078773, 1, 0.9118696833254699] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466616.829861548, -709153.5696457266, 1, 1.005973807133442] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466617.669132809, -709153.989281357, 1, 1.002554041488771] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465620.683304003, -708655.4963669543, 1, 0.7676412854444375] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466107.225755122, -708898.7675925139, 1, 0.8550138341688168] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466070.716452848, -708880.5129413765, 1, 1.200188856973894] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1} \n}":    [
+[1466602.542482895, -709146.4259564001, 1, 1.029408458160528] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465931.726114838, -708811.0177723716, 1, 0.8338647817781337] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466283.657769377, -708986.9835996412, 1, 0.8865502414578194] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466596.226911044, -709143.2681704744, 1, 0.9698437740339086] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1} \n}":    [
+[1466602.295093546, -709146.3022617255, 1, 0.9750692593968239] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465544.061620572, -708617.1855252387, 1, 0.7820290794259461] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465456.376373792, -708573.3429018487, 1, 0.7851484454431122] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465575.724767987, -708633.0170989463, 1, 0.794681918960614] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465478.053342919, -708584.1813864121, 1, 0.7951742698782569] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465609.956714912, -708650.1330724085, 1, 0.8086623469319627] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465663.927771235, -708677.1186005704, 1, 0.8029049318325263] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465560.107738024, -708625.2085839646, 1, 0.8015649596451068] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465792.103128519, -708741.2062792124, 1, 0.8275714116543473] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465559.287280466, -708624.7983551855, 1, 0.8077116403965001] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465630.287849747, -708660.298639826, 1, 0.8028901490544905] 
+    ],
+   "{\n{0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466221.409948482, -708955.8596891935, 1, 0.8848222445771038] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466126.029166514, -708908.1692982098, 1, 0.8354733321721669] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1} \n}":    [
+[1466306.484166831, -708998.3967983683, 1, 0.8744715548064503] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1466315.743068945, -709003.026249425, 1, 0.8030235765202567] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1} \n}":    [
+[1466526.465934551, -709108.3876822282, 1, 1.088324492372453] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0} \n}":    [
+[1466475.579803167, -709082.9446165363, 1, 0.8757269572316033] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465290.544214484, -708490.4268221946, 1, 0.7406590396576502] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1} \n}":    [
+[1465619.152250412, -708654.7308401588, 1, 0.7776408962646795] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465244.955496606, -708467.6324632557, 1, 0.7539731495473511] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465363.414203085, -708526.8618164953, 1, 0.7715311978996827] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465269.792554765, -708480.0509923351, 1, 0.7743810082953001] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1} \n}":    [
+[1465529.702633548, -708610.0060317267, 1, 0.7979093642645601] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465495.513321934, -708592.9113759197, 1, 0.7813660966895792] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465377.764431472, -708534.0369306889, 1, 0.7637199653221831] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465307.299576269, -708498.8045030874, 1, 0.7709502757131604] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465399.874104683, -708545.091767294, 1, 0.7846087441861704] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465295.379577868, -708492.8445038865, 1, 0.7846087441861704] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1} \n}":    [
+[1465535.698707273, -708613.0040685893, 1, 0.8054250390373535] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465528.277253029, -708609.293341467, 1, 0.7938535394049424] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465497.635499309, -708593.9724646071, 1, 0.7659925471778786] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465430.550885274, -708560.4301575895, 1, 0.7743615651527557] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465468.509246432, -708579.4093381687, 1, 0.7875051446180931] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1466590.919747656, -709140.6145887807, 1, 0.940715598860584] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466601.389228144, -709145.8493290249, 1, 0.9729865906798826] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465485.816204417, -708588.0628171613, 1, 0.7732820581263138] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465404.4699734, -708547.3897016525, 1, 0.7785967058928519] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465684.27018626, -708687.2898080827, 1, 0.8097699683078247] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1465890.169735392, -708790.2395826487, 1, 0.8324899323596411] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465489.781641101, -708590.045535503, 1, 0.7914925761679052] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465378.227469184, -708534.2684495446, 1, 0.7898776812278913] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465613.161407779, -708651.7354188421, 1, 0.8011752208081409] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465522.942555077, -708606.6259924914, 1, 0.7876505619563963] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465429.106701296, -708559.7080656008, 1, 0.7891243016016758] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0} \n}":    [
+[1465784.137903933, -708737.223666919, 1, 0.8188961532365996] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465379.425060225, -708534.8672450653, 1, 0.7961351844437596] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1} \n}":    [
+[1465598.923708009, -708644.6165689572, 1, 0.8150283425530788] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465556.714930505, -708623.5121802052, 1, 0.7947934372973112] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1465990.587877067, -708840.4486534863, 1, 0.8459530559013454] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465566.257251757, -708628.2833408313, 1, 0.8032328882729245] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466523.03507441, -709106.6722521576, 1, 0.9427021237003808] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466527.372206684, -709108.8408182944, 1, 1.075630589239478] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466316.683939693, -709003.496684799, 1, 1.137484715999586] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466612.804062035, -709151.5567459703, 1, 0.9848501624316903] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1} \n}":    [
+[1466604.540268334, -709147.4248491199, 1, 0.9747606050383252] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466451.245462082, -709070.7774459937, 1, 1.105000992295553] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465458.60658535, -708574.4580076276, 1, 0.775587158926025] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466478.854027162, -709084.5817285335, 1, 0.9266860422049605] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0} \n}":    [
+[1466426.803496211, -709058.5564630583, 1, 0.9176711390043891] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465731.784319065, -708711.0468744853, 1, 0.8048601798904806] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465642.162427687, -708666.2359287962, 1, 0.8057028656269275] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466580.691224567, -709135.5003272361, 1, 1.05933259098569] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466546.460990343, -709118.3852101243, 1, 0.9477921242921633] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466609.485026094, -709149.8972279998, 1, 0.9781554845906107] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465584.221158817, -708637.265294361, 1, 0.796470045694437] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465812.301920391, -708751.305675148, 1, 0.8209701406609174] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1465972.826713239, -708831.5680715721, 1, 0.8443072585079742] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465694.450692206, -708692.3800610558, 1, 0.8060034919181173] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465719.406732549, -708704.8580812274, 1, 0.8184100907953585] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466561.948552513, -709126.1289912094, 1, 0.9396197413544467] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465439.239210814, -708564.7743203597, 1, 0.7788563006837839] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465341.883439064, -708516.0964344849, 1, 0.7803321399314074] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465300.457364737, -708495.3833973212, 1, 0.7893005655109179] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0} \n}":    [
+[1465666.903050653, -708678.6062402794, 1, 0.8172091879309406] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465464.08029742, -708577.1948636627, 1, 0.7897518339901791] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465357.064536924, -708523.6869834148, 1, 0.7892446471195448] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465425.388403678, -708557.8489167916, 1, 0.7985111136624636] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465294.86051006, -708492.5849699829, 1, 0.7942016072628856] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465591.917354215, -708641.11339206, 1, 0.7959273485974964] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465488.285128235, -708589.29727907, 1, 0.7952164594491915] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465490.757671496, -708590.5335507006, 1, 0.8017376035911861] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0} \n}":    [
+[1466610.272041152, -709150.2907355287, 1, 0.9795047005452656] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466279.807936335, -708985.0586831204, 1, 0.8877349682110246] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465556.417672408, -708623.3635511565, 1, 0.7972878340196203] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465443.290329507, -708566.7998797062, 1, 0.7953029095959668] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465667.654849783, -708678.9821398443, 1, 0.8161025681395118] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465680.208291104, -708685.2588605047, 1, 0.8197032208258173] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465506.444393714, -708598.3769118098, 1, 0.8039399287573985] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465370.942779322, -708530.6261046139, 1, 0.7987584469775985] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465556.190415018, -708623.2499224617, 1, 0.8044174630355921] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465436.502443494, -708563.4059366995, 1, 0.8005238937086442] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465348.201461081, -708519.2554454934, 1, 0.8013017323703884] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465605.306850163, -708647.8081400344, 1, 0.816646163892773] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465570.373270899, -708630.341350402, 1, 0.807833679292031] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465786.540824418, -708738.4251271616, 1, 0.8307229919111082] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465555.201200251, -708622.7553150784, 1, 0.8113982852570607] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465752.754983004, -708721.5322064548, 1, 0.8293229556458879] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466498.338944977, -709094.3241874414, 1, 1.079464636138279] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465619.524558542, -708654.9169942238, 1, 0.7975288666290352] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465517.068926003, -708603.689177954, 1, 0.7966015138051183] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466449.176755751, -709069.7430928282, 1, 0.9215997516748627] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465522.169648596, -708606.2395392508, 1, 0.8040109348568952] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0} \n}":    [
+[1465664.70908845, -708677.5092591778, 1, 0.8273062414934131] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1} \n}":    [
+[1465876.932226973, -708783.6208284392, 1, 0.8402313628990534] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466280.455435641, -708985.3824327732, 1, 1.131807465627984] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466614.45301637, -709152.3812231376, 1, 1.012865533537425] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466072.710027174, -708881.5097285397, 1, 0.8600404868425033] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465598.71133123, -708644.5103805679, 1, 0.8097119372687867] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0} \n}":    [
+[1465855.117131767, -708772.7132808361, 1, 0.8359558565875712] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1} \n}":    [
+[1465912.70322136, -708801.5063256329, 1, 0.8466985249680667] 
+    ],
+   "{\n{0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466496.001190865, -709093.1553103854, 1, 0.9360749689899417] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465337.441366472, -708513.8753981885, 1, 0.7542156021094365] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465270.409770036, -708480.3595999709, 1, 0.7631350645280136] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465556.673652631, -708623.4915412682, 1, 0.7910092048883542] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465374.62478542, -708532.4671076628, 1, 0.7783375172871628] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465268.811825108, -708479.5606275068, 1, 0.7788569673627272] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0} \n}":    [
+[1465590.040311015, -708640.1748704603, 1, 0.7846120171339926] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465504.028640186, -708597.1690350459, 1, 0.7880988551886521] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465398.225987736, -708544.2677088208, 1, 0.7723984877069096] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465313.189092235, -708501.7492610704, 1, 0.7766407912091868] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465396.254633403, -708543.2820316544, 1, 0.7885703157254839] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465281.498132231, -708485.9037810682, 1, 0.7867429493751265] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465523.33810183, -708606.8237658675, 1, 0.7982223681951847] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465523.732235331, -708607.0208326182, 1, 0.7763963862642399] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465441.764489772, -708566.0369598386, 1, 0.7807587396647088] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465646.688356725, -708668.498893315, 1, 0.8037967291472856] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466349.904823503, -709020.1071267041, 1, 0.8803673904863936] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465504.27375802, -708597.2915939629, 1, 0.781984136452362] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465410.223694632, -708550.2665622687, 1, 0.7842561463191543] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1465876.427434455, -708783.36843218, 1, 0.8341438382226097] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465486.575978009, -708588.4427039572, 1, 0.7954503928239165] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465365.710828791, -708528.0101293481, 1, 0.7919377636946763] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465608.564138301, -708649.436784103, 1, 0.8051624624143089] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465525.678679648, -708607.9940547765, 1, 0.7928386155774488] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465421.72720982, -708556.0183198629, 1, 0.7924562918452459] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466222.192875413, -708956.2511526591, 1, 0.881499854620461] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465356.800436228, -708523.5549330665, 1, 0.7963662598100424] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1} \n}":    [
+[1465575.313464388, -708632.8114471469, 1, 0.815364965067207] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466144.033853394, -708917.1716416498, 1, 1.180115437689889] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466587.18113879, -709138.7452843479, 1, 1.044053833113194] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465550.973567173, -708620.641498539, 1, 0.7774297752923286] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1} \n}":    [
+[1465815.45193927, -708752.8806845879, 1, 0.8090571628002424] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465469.81865169, -708580.0640407976, 1, 0.7825090921649244] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466075.714051968, -708883.0117409367, 1, 0.8563272460543681] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0} \n}":    [
+[1466408.796293876, -709049.5528618905, 1, 0.9152605335476404] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466448.884564255, -709069.5969970801, 1, 0.9201238678558002] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466613.100750121, -709151.7050900131, 1, 0.9823817761127722] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465581.104845652, -708635.7071377785, 1, 0.8005928272633672] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465803.566345164, -708746.9378875348, 1, 0.8238311899446852] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466560.597948268, -709125.4536890865, 1, 0.9547556030539189] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466300.877546738, -708995.5934883218, 1, 0.876209860332823] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465447.887233871, -708569.098331888, 1, 0.7850545929985489] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465339.458880369, -708514.8841551373, 1, 0.7847360078777337] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465598.748155158, -708644.5287925319, 1, 0.8104492933094727] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0} \n}":    [
+[1465414.706706477, -708552.5080681914, 1, 0.7950580624252033] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465281.038469397, -708485.6739496514, 1, 0.7904917679815413] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465459.349447461, -708574.829438683, 1, 0.7936941612229055] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465342.747089013, -708516.5282594592, 1, 0.791444848307712] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0} \n}":    [
+[1465702.128635576, -708696.2190327405, 1, 0.8187518014645523] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0} \n}":    [
+[1465494.121319678, -708592.2153747915, 1, 0.8134069414226436] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465478.590081665, -708584.4497557851, 1, 0.7978355824702504] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465590.134399303, -708640.2219146042, 1, 0.8067734400289639] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465471.346310135, -708580.8278700201, 1, 0.8028119224914823] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465773.885477652, -708732.0974537787, 1, 0.8226081667365647] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465551.885804405, -708621.0976171553, 1, 0.801528845608755] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465430.156239227, -708560.2328345664, 1, 0.7976351800145751] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465651.613563211, -708670.9614965584, 1, 0.8167632472062022] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465541.907167321, -708616.1082986132, 1, 0.8062155615647441] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465413.904885666, -708552.1071577857, 1, 0.8010736167050108] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0} \n}":    [
+[1465663.22209873, -708676.7657643177, 1, 0.825877825681108] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465552.32373018, -708621.3165800427, 1, 0.8089895320572252] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465529.082608643, -708609.6960192744, 1, 0.8113925052987583] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466273.474114814, -708981.8917723598, 1, 0.8812926022325269] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465618.675682168, -708654.4925560364, 1, 0.8021647982274522] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465507.515411236, -708598.9124205706, 1, 0.7996164922390155] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0} \n}":    [
+[1465793.551666051, -708741.930547978, 1, 0.8225500719185986] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465503.041189477, -708596.6753096912, 1, 0.8050898887923605] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465580.919750173, -708635.6145900391, 1, 0.811024954763631] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465783.295974691, -708736.802702298, 1, 0.8303911970966777] 
+    ],
+   "{\n{0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465560.474720715, -708625.3920753102, 1, 0.813450141198649] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465709.529827546, -708699.9196287259, 1, 1.28083580793303] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466573.308400643, -709131.8089152742, 1, 1.058061215327048] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465986.387565408, -708838.3484976565, 1, 0.8143503558717089] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466169.521461215, -708929.9154455601, 1, 1.180194489367835] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1} \n}":    [
+[1466520.171837342, -709105.2406336236, 1, 1.071406721790335] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465697.545980136, -708693.9277050205, 1, 0.8022344690035863] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466595.694246982, -709143.0018384437, 1, 0.9716919938685685] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466520.534278146, -709105.4218540258, 1, 1.083636934150007] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0} \n}":    [
+[1466592.657426088, -709141.4834279965, 1, 0.9697025965210299] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466445.658114619, -709067.9837722622, 1, 1.089706475128445] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465938.508107217, -708814.408768561, 1, 0.8307223160891231] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466310.9920518, -709000.6507408529, 1, 0.8943550957059134] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465632.481733234, -708661.3955815698, 1, 1.2805530501492] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1465959.949105346, -708825.1292676257, 1, 1.190736110081209] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466265.600804067, -708977.9551169861, 1, 1.133275100167435] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466049.76239978, -708870.0359148427, 1, 1.17304798610969] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466070.472013591, -708880.3907217481, 1, 1.178464059028429] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466159.258233993, -708924.783831949, 1, 1.145799284774683] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0} \n}":    [
+[1466384.811004084, -709037.5602169947, 1, 1.099278113991758] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1} \n}":    [
+[1466254.888012252, -708972.5987210787, 1, 1.122000664922066] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0} \n}":    [
+[1466617.649771751, -709153.9796008284, 1, 1.002098737053771] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466386.119022477, -709038.214226191, 1, 1.100412532535963] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0} \n}":    [
+[1466611.480600758, -709150.8950153316, 1, 1.018094093214655] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0} \n}":    [
+[1466540.718228406, -709115.5138291558, 1, 0.9449054610227893] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466511.029940819, -709100.6696853624, 1, 1.090513100587122] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0} \n}":    [
+[1466613.939994083, -709152.1247119943, 1, 1.015417831001189] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466194.241612691, -708942.2755212983, 1, 0.8640748616572516] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466540.631920881, -709115.4706753934, 1, 0.9463378250999287] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0} \n}":    [
+[1466129.738010744, -708910.0237203247, 1, 0.8674798000489067] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1} \n}":    [
+[1466608.247772719, -709149.278601312, 1, 1.023283162833375] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466465.144863941, -709077.727146923, 1, 1.083159540688885] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465987.036757639, -708838.6730937721, 1, 0.848653585233619] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466488.69690014, -709089.5031650227, 1, 0.9320147762272082] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466186.864596338, -708938.5870131218, 1, 0.878489211411332] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466147.758047271, -708919.033738588, 1, 0.8724958270025616] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466084.675539807, -708887.492484856, 1, 1.165129157503636] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1} \n}":    [
+[1466589.23926643, -709139.7743481676, 1, 1.041859996304276] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466558.504391365, -709124.4069106349, 1, 0.9541425677241697] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466603.880957439, -709147.0951936722, 1, 1.02925136636736] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0} \n}":    [
+[1466570.813777657, -709130.5616037811, 1, 1.048218634764289] 
+    ],
+   "{\n{0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466614.725454974, -709152.5174424398, 1, 0.9875389661721543] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466617.145218356, -709153.7273241308, 1, 0.9935158075730831] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465742.088096011, -708716.1987629584, 1, 0.7883478101955781] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1} \n}":    [
+[1465988.372139805, -708839.3407848551, 1, 0.8230600644869035] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1} \n}":    [
+[1466529.435766565, -709109.8725982353, 1, 0.9391322482424027] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466471.908966001, -709081.109197953, 1, 0.9245261816743374] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466308.311567418, -708999.3104986617, 1, 0.8862652516691589] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466305.395283624, -708997.8523567646, 1, 0.8880312832380644] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466576.784204026, -709133.5468169656, 1, 0.9603329287055147] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466617.742152924, -709154.0257914148, 1, 0.9993541774536472] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0} \n}":    [
+[1466307.403695098, -708998.8565625015, 1, 0.8946596181296632] 
+    ],
+   "{\n{0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466255.402987484, -708972.8562086947, 1, 1.120282776555826] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466505.866841156, -709098.0881355307, 1, 0.9294603295829466] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465584.182568593, -708637.245999249, 1, 0.8004150354124507] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465760.767768362, -708725.5385991338, 1, 0.8205886477286372] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1} \n}":    [
+[1466588.135699197, -709139.2225645512, 1, 0.9675767896960036] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466329.853798582, -709010.0816142434, 1, 0.8936594682939107] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466582.15196862, -709136.2306992629, 1, 1.043385078527876] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465888.396072738, -708789.3527513217, 1, 0.8337476726944738] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465988.176189944, -708839.2428099248, 1, 0.8475900221834978] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466244.039463264, -708967.1744465849, 1, 1.146093569816883] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466503.81244116, -709097.0609355327, 1, 1.0769224401875] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465740.893173588, -708715.6013017464, 1, 0.8172085515960335] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465813.551993425, -708751.930711665, 1, 0.8236357944036988] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466159.959862274, -708925.1346460897, 1, 0.8692838996755606] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1} \n}":    [
+[1466582.211280448, -709136.2603551766, 1, 0.9624528334708311] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466617.181287879, -709153.7453588923, 1, 1.005371711808852] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466346.437419741, -709018.3734248234, 1, 1.123519037910106] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465761.39744096, -708725.8534354328, 1, 0.8239092361785108] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466527.235911354, -709108.7726706297, 1, 0.9432443412795232] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465885.661170772, -708787.9853003387, 1, 0.8417417378517544] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466536.736249222, -709113.5228395638, 1, 0.9477318623754553] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466364.108018971, -709027.208724438, 1, 1.113746165214225] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466346.906546454, -709018.6079881798, 1, 0.8970350069851797] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1} \n}":    [
+[1466572.725837655, -709131.5176337803, 1, 0.9589425167394066] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466600.417910563, -709145.3636702343, 1, 0.9751299743475613] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466606.992205719, -709148.6508178122, 1, 0.9809782879392978] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466596.126981886, -709143.2182058957, 1, 0.9686414977177152] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466593.358173921, -709141.8338019131, 1, 0.9685370620251621] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465855.78817254, -708773.0488012225, 1, 0.8368272739816407] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466125.73365001, -708908.0215399578, 1, 0.8658439886098029] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466022.086721813, -708856.1980758591, 1, 0.8567757211736323] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465828.020239069, -708759.164834487, 1, 0.8375467761453502] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1465991.714617307, -708841.0120236061, 1, 0.856435704060926] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466469.764032017, -709080.0367309611, 1, 0.9295427129913874] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466099.701191067, -708895.005310486, 1, 0.867057788267887] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466067.80732638, -708879.0583781429, 1, 0.8654682683660249] 
+    ],
+   "{\n{0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466483.368055644, -709086.8387427749, 1, 1.077066861749461] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466349.569757671, -709019.9395937881, 1, 1.123061555549757] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466432.749692231, -709061.5295610683, 1, 0.8982996752620869] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466605.032437406, -709147.6709336558, 1, 1.023847085791642] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0} \n}":    [
+[1466513.930833204, -709102.1201315549, 1, 0.9311186724698232] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1} \n}":    [
+[1466381.309918252, -709035.8096740787, 1, 1.101098976440035] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466207.588580599, -708948.949005252, 1, 1.141218146511814] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466611.958900602, -709151.1341652536, 1, 0.9858819528429376] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0} \n}":    [
+[1466549.793979212, -709120.0517045585, 1, 0.9506097163436618] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466072.219013365, -708881.2642216351, 1, 0.8608873785333359] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1465959.621565669, -708824.9654977871, 1, 0.8502621110837912] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465614.849673708, -708652.5795518069, 1, 0.8192283066529881] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466591.380526507, -709140.8449782061, 1, 0.967567257713989] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465947.494972765, -708818.9022013354, 1, 0.848893735873029] 
+    ],
+   "{\n{0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465946.102346024, -708818.2058879649, 1, 0.8499136575650077] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465667.921367559, -708679.1153987321, 1, 1.292098308347161] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466566.92764725, -709128.6185385777, 1, 1.071837237274567] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466060.322637499, -708875.3160337023, 1, 1.201211361050044] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465813.164239194, -708751.7368345498, 1, 0.7818285428423303] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466610.473754997, -709150.3915924514, 1, 0.9816270099484754] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466370.702341991, -709030.5058859481, 1, 0.884928681924038] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0} \n}":    [
+[1466580.753360743, -709135.531395324, 1, 0.9601283855566282] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466608.923867675, -709149.6166487903, 1, 0.9805779121114231] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466219.062570303, -708954.6860001044, 1, 1.179481644692183] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465475.100910526, -708582.7051702158, 1, 0.7374551991868382] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465454.279931333, -708572.2946806191, 1, 0.7574790926579514] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466087.163017, -708888.7362234528, 1, 0.83240755714813] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466521.4143962, -709105.8619130529, 1, 0.9363930804581507] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465585.383440567, -708637.8464352362, 1, 0.7692854146644098] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465531.855976961, -708611.0827034332, 1, 0.7799502837401396] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465929.731038704, -708810.0202343046, 1, 0.8240793528718907] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0} \n}":    [
+[1466332.463798388, -709011.3866141465, 1, 1.149270451516152] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466124.011108669, -708907.1602692873, 1, 1.175528126410931] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466604.616817271, -709147.4631235884, 1, 0.9762789760226408] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1465853.541790263, -708771.9256100843, 1, 1.28871128910355] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466388.042865606, -709039.1761477557, 1, 1.201300330284161] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0} \n}":    [
+[1465778.434703249, -708734.3720665771, 1, 1.287367797984737] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466272.836756745, -708981.5730933254, 1, 1.155394680830808] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465890.210261845, -708790.2598458754, 1, 1.224575992311093] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465595.540324028, -708642.9248769665, 1, 1.289606854103233] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466444.627558567, -709067.4684942361, 1, 1.122589923931571] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466074.15526595, -708882.2323479278, 1, 1.191751359434404] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1465987.442035635, -708838.87573277, 1, 1.192961698953702] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465850.033028151, -708770.1712290283, 1, 1.222348333979104] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466617.754276802, -709154.0318533537, 1, 0.9996706875816713] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466118.375462002, -708904.3424459536, 1, 1.194147088046947] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466575.817151634, -709133.0632907699, 1, 0.9354790317571305] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0} \n}":    [
+[1466436.571773202, -709063.4406015535, 1, 1.112074822710585] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466590.207587483, -709140.258508694, 1, 1.052285964974537] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465669.557660108, -708679.9335450067, 1, 0.783298507455403] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465996.422262509, -708843.3658462074, 1, 0.8310689691156367] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466582.611897998, -709136.4606639517, 1, 0.961597677020001] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465765.362109346, -708727.8357696255, 1, 1.251798978417019] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465725.680771106, -708707.9951005057, 1, 1.248255145369325] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466349.242488918, -709019.7759594118, 1, 0.8795821024206425] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466341.506105603, -709015.9077677542, 1, 1.122368940031575] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466342.374910776, -709016.3421703407, 1, 1.120961320814354] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466529.563149692, -709109.9362897989, 1, 0.9413217857443137] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466566.966124211, -709128.6377770583, 1, 0.9546179265601817] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466599.559025662, -709144.9342277835, 1, 0.9733784292505205] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466394.751965417, -709042.5306976611, 1, 1.106035210590216] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1466026.741998316, -708858.5257141108, 1, 0.8447801427429367] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466573.093356929, -709131.7013934171, 1, 0.9595477242463017] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466334.331987636, -709012.3207087708, 1, 1.119608004117759] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466613.58771487, -709151.9485723876, 1, 0.9872482666329677] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465671.938155181, -708681.1237925434, 1, 0.8153663560432184] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466516.238092378, -709103.2737611416, 1, 1.094816378794607] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465971.006654552, -708830.6580422289, 1, 1.20438447848592] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466293.200968393, -708991.755199149, 1, 1.134976930438203] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466556.263260789, -709123.2863453472, 1, 1.062990901115768] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466071.63566935, -708880.9725496278, 1, 1.168002766843534] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466380.90687, -709035.6081499527, 1, 0.9019150676648002] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466614.623056513, -709152.4662432094, 1, 0.9891774239997791] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466494.125365272, -709092.2173975887, 1, 0.931636769012968] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466575.356720642, -709132.8330752737, 1, 0.9603136210214422] 
+    ],
+   "{\n{0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466315.927843601, -709003.1186367533, 1, 1.123841882734739] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1} \n}":    [
+[1466162.575431304, -708926.4424306048, 1, 0.8435618523667338] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1} \n}":    [
+[1466360.667759328, -709025.4885946166, 1, 0.8869505413321345] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465531.928544449, -708611.1189871773, 1, 0.7557412344294261] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465485.227266199, -708587.7683480523, 1, 0.7691611791563364] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465609.97128327, -708650.1403565876, 1, 0.7799360537484537] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465541.19977014, -708615.7546000227, 1, 0.7869413385414724] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466614.578145399, -709152.4437876522, 1, 1.011739410234429] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1} \n}":    [
+[1466484.56770955, -709087.4385697275, 1, 0.9245719197174664] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465628.436230772, -708659.3728303388, 1, 0.7939685752445633] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465649.952531588, -708670.1309807467, 1, 0.8052644718714784] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465990.429237443, -708840.3693336744, 1, 0.8419364452772616] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466192.907051735, -708941.6082408204, 1, 1.170877845096221] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466085.381434212, -708887.8454320584, 1, 0.8503112318101502] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0} \n}":    [
+[1465970.099612251, -708830.2045210783, 1, 0.8285180147567427] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0} \n}":    [
+[1466073.390434633, -708881.8499322691, 1, 0.8361282964674019] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466572.717627883, -709131.5135288941, 1, 0.9580385790730572] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466603.832954911, -709147.0711924082, 1, 0.9767434208840932] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0} \n}":    [
+[1466605.534921249, -709147.9221755771, 1, 1.030933058092003] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 1} \n}":    [
+[1466169.90224277, -708930.1058363377, 1, 1.152478994465301] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465826.767040778, -708758.5382353419, 1, 1.224999691264178] 
+    ],
+   "{\n{0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0} \n}":    [
+[1466374.093122687, -709032.2012762961, 1, 1.141920950536728] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466247.530101082, -708968.9197654938, 1, 1.142848132875085] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466260.076653128, -708975.1930415165, 1, 0.8628323478330886] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1} \n}":    [
+[1466570.735536336, -709130.5224831207, 1, 0.9450384167602909] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465439.955190531, -708565.1323102184, 1, 0.7564941748021874] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465381.472448885, -708535.8909393949, 1, 0.7671077800465667] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1465772.116960391, -708731.2131951483, 1, 0.8010228775457228] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465388.141774599, -708539.2256022524, 1, 0.7845099636039834] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465507.476020947, -708598.8927254264, 1, 0.7764321734269298] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465429.753015218, -708560.0312225616, 1, 0.7823988357066162] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465551.158675159, -708620.7340525324, 1, 0.786480407381086] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465578.540012651, -708634.4247212781, 1, 0.7984137349654458] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1} \n}":    [
+[1466426.259149833, -709058.284289869, 1, 1.094175845808746] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466374.661449375, -709032.4854396401, 1, 0.8946558782338254] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0} \n}":    [
+[1466113.237385566, -708901.7734077359, 1, 0.8523830854142532] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465977.964945832, -708834.1371878687, 1, 0.8399401456006594] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465607.482442443, -708648.8959361743, 1, 0.7864344469620537] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465520.724998955, -708605.5172144304, 1, 0.7895163339422705] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1465970.566827491, -708830.4381286982, 1, 0.8422493047476999] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465633.426874932, -708661.8681524186, 1, 0.7986676687051668] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465536.858336375, -708613.5838831404, 1, 0.7988891810714438] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0} \n}":    [
+[1465776.186573782, -708733.2480018435, 1, 0.8261811548479846] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465664.334741353, -708677.3220856293, 1, 0.8127337353746876] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465971.06777094, -708830.6886004228, 1, 1.217308879588418] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466138.691402165, -708914.5004160351, 1, 1.191683250035527] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466259.095907159, -708974.7026685321, 1, 1.13259608543337] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466315.231894389, -709002.7706621473, 1, 0.8827099466431576] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466375.878649, -709033.0940394525, 1, 1.12727829057437] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465653.066745253, -708671.688087579, 1, 0.7818476914605283] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465578.74528052, -708634.5273552128, 1, 0.7880159616232055] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1} \n}":    [
+[1466115.727045972, -708903.0182379385, 1, 0.8604261331498204] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465555.854640296, -708623.0820351007, 1, 0.7905047668375386] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465455.398753566, -708572.8540917356, 1, 0.7907049273283205] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465571.934304028, -708631.1218669668, 1, 0.8003083040563649] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465463.667925684, -708576.9886777945, 1, 0.798626359085874] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466449.613947423, -709069.9616886642, 1, 0.9238776487373191] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466269.184529736, -708979.7469798209, 1, 0.8856116384184798] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465658.383028147, -708674.3462290261, 1, 0.8077388828479728] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465545.075947098, -708617.6926885019, 1, 0.8042993936810094] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465692.663332721, -708691.4863813134, 1, 0.8244881951518755] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466353.878746949, -709022.0940884274, 1, 1.126606708602326] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466586.661731001, -709138.4855804533, 1, 0.9644632040086214] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465723.118104669, -708706.713767287, 1, 0.8086593049054894] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465619.592988647, -708654.951209276, 1, 0.8066986834744737] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466447.339652501, -709068.8245412032, 1, 0.9232396239174208] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466556.388117282, -709123.3487735939, 1, 0.9534040920515952] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1} \n}":    [
+[1466605.515237205, -709147.9123335553, 1, 0.9777469206920569] 
+    ],
+   "{\n{0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465691.48873966, -708690.8990847828, 1, 0.8184842508647607] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1} \n}":    [
+[1466505.823523253, -709098.0664765791, 1, 1.077528091798421] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465474.412782512, -708582.3611062088, 1, 0.7686081413521342] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465398.637574209, -708544.4735020573, 1, 0.774894521948491] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465382.862635121, -708536.5860325131, 1, 0.7885703157254839] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465520.246216391, -708605.2778231483, 1, 0.7845963303240566] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465430.358919794, -708560.3341748497, 1, 0.7872697611800297] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0} \n}":    [
+[1465389.044701118, -708539.6770655118, 1, 0.7956049890308388] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0} \n}":    [
+[1465740.480777879, -708715.395103892, 1, 0.8238337749301416] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0} \n}":    [
+[1465625.336423504, -708657.8229267048, 1, 0.8079539001793621] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465571.251656014, -708630.7805429598, 1, 0.8017869883033784] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465521.393929013, -708605.8516794592, 1, 0.7945216701351834] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465631.51341266, -708660.9114212826, 1, 0.8033232731545005] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465526.199152094, -708608.2542909996, 1, 0.8018534547061763] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465648.541191247, -708669.425310576, 1, 0.8141191402199548] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466202.843045063, -708946.576237484, 1, 0.8574865027476324] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465670.104374201, -708680.206902053, 1, 0.7910041297035404] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0} \n}":    [
+[1466552.475193579, -709121.3923117423, 1, 0.9499759102214098] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1} \n}":    [
+[1466444.577113945, -709067.443271925, 1, 0.922924327780386] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465559.00230975, -708624.6558698275, 1, 0.7957521939928903] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465449.004783659, -708569.6571067823, 1, 0.7941996971114818] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465446.821859024, -708568.5656444646, 1, 0.7999617071292324] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466380.617153844, -709035.4632918749, 1, 1.103881461401357] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466558.882278613, -709124.5958542591, 1, 1.048154267159568] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465529.464702083, -708609.8870659941, 1, 0.8062573458866124] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465510.027690428, -708600.1685601668, 1, 0.809019857136674] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0} \n}":    [
+[1466421.207322527, -709055.7583762162, 1, 1.108317110685282] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1} \n}":    [
+[1466521.97007065, -709106.1397502775, 1, 0.9399884214301792] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466519.137172344, -709104.7233011245, 1, 0.9397874153474925] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465672.006206839, -708681.1578183721, 1, 0.8192166045499459] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465649.126468916, -708669.7179494109, 1, 0.8212121176536153] 
+    ],
+   "{\n{0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1} \n}":    [
+[1466554.189883843, -709122.249656874, 1, 0.9521010369635302] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465639.536623981, -708664.9230269431, 1, 1.286945606561843] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466261.858604772, -708976.0840173385, 1, 0.8630469067903261] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1} \n}":    [
+[1466617.344060802, -709153.8267453538, 1, 0.9954444689646684] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466457.970828661, -709074.1401292834, 1, 0.9138209525318154] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1} \n}":    [
+[1466327.814520836, -709009.0619753706, 1, 1.130150776761228] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466104.542222497, -708897.4258262012, 1, 0.8482872812732812] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466355.6454152, -709022.9774225525, 1, 0.8960437519657052] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1} \n}":    [
+[1465913.341031781, -708801.825230843, 1, 1.251561395710395] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466067.576696133, -708878.9430630194, 1, 1.172849187624343] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1} \n}":    [
+[1466236.208093021, -708963.258761463, 1, 1.135214765438827] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0} \n}":    [
+[1466162.485617163, -708926.397523534, 1, 1.169104214396405] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1} \n}":    [
+[1466468.412625096, -709079.3610275005, 1, 1.08290384332058] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465562.197896713, -708626.2536633092, 1, 1.286401793924892] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0} \n}":    [
+[1466502.131744502, -709096.2205872035, 1, 1.099650981574975] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0} \n}":    [
+[1466605.326292723, -709147.8178613142, 1, 0.9765900245621763] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1} \n}":    [
+[1466242.438195236, -708966.3738125709, 1, 1.133251102445322] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465684.839197708, -708687.5743138067, 1, 1.249159605449961] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1465878.074252613, -708784.1918412591, 1, 1.202578302263545] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466062.308291675, -708876.3088607901, 1, 1.156993202405955] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1} \n}":    [
+[1466537.77062887, -709114.0400293875, 1, 0.9373718988666535] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466609.710009168, -709150.0097195365, 1, 1.017248633256852] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466176.614001723, -708933.4617158142, 1, 0.8640348409024767] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0} \n}":    [
+[1466387.305539195, -709038.8074845502, 1, 1.101010835971339] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466489.172477313, -709089.7409536091, 1, 0.9282141942003794] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1} \n}":    [
+[1466524.502116709, -709107.4057733072, 1, 0.9424602119855625] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1} \n}":    [
+[1466364.093184063, -709027.2013069843, 1, 1.105571285930082] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1} \n}":    [
+[1466523.893849416, -709107.1016396605, 1, 0.9419982553535855] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 0} \n}":    [
+[1466528.149259771, -709109.2293448382, 1, 0.9451986383266675] 
+    ],
+   "{\n{0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0} \n}":    [
+[1466314.587023108, -709002.4482265069, 1, 1.114043792121122] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1} \n}":    [
+[1466494.807079324, -709092.5582546149, 1, 0.9349928040732925] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466200.7399981, -708945.5247140026, 1, 1.139140083212009] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0} \n}":    [
+[1466562.986471763, -709126.6479508342, 1, 0.954218844775338] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466228.458060343, -708959.3837451241, 1, 0.8721003848354031] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0} \n}":    [
+[1466583.059773617, -709136.6846017611, 1, 0.9636892033866774] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0} \n}":    [
+[1466032.31424273, -708861.3118363175, 1, 1.174105094150825] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1} \n}":    [
+[1466092.249684212, -708891.2795570589, 1, 1.154176186956113] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466106.446155422, -708898.3777926638, 1, 1.149125748622222] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0} \n}":    [
+[1466612.953348891, -709151.631389398, 1, 0.9861354667044977] 
+    ],
+   "{\n{0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0} \n}":    [
+[1466592.584782578, -709141.4471062416, 1, 1.041113905177786] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466268.57075028, -708979.4400900925, 1, 0.8805516173537642] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1} \n}":    [
+[1466604.068974105, -709147.1892020053, 1, 1.031391467053865] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1465957.72012015, -708824.0147750275, 1, 0.8402322409569019] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0} \n}":    [
+[1465966.027646213, -708828.168538059, 1, 0.8403962833170051] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1} \n}":    [
+[1466350.116305364, -709020.2128676346, 1, 0.8825661440737471] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1} \n}":    [
+[1466242.297063673, -708966.3032467894, 1, 0.8838271069294856] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466615.355692839, -709152.8325613723, 1, 0.9900880511647805] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0} \n}":    [
+[1465899.034159507, -708794.671794706, 1, 0.8332791124744469] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1} \n}":    [
+[1466183.530796867, -708936.9201133862, 1, 0.872094273701554] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466616.953966438, -709153.6316981718, 1, 0.9928642338743792] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 1} \n}":    [
+[1466600.277434173, -709145.2934320393, 1, 0.9752016739626211] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1} \n}":    [
+[1466617.670479453, -709153.9899546793, 1, 0.9981248263472131] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0} \n}":    [
+[1466604.436183467, -709147.3728066862, 1, 0.9782397889814665] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1} \n}":    [
+[1466617.503856649, -709153.9066432774, 1, 1.003172409532723] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0} \n}":    [
+[1466337.049238755, -709013.6793343301, 1, 0.8923245588604206] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1} \n}":    [
+[1466615.300817278, -709152.8051235914, 1, 1.01123849771157] 
+    ],
+   "{\n{0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1} \n}":    [
+[1466230.121050956, -708960.2152404306, 1, 1.12768689768669] 
+    ],
+   "{\n{0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1} \n}":    [
+[1466617.371944443, -709153.8406871744, 1, 0.9959372874822869] 
+    ]
+  },
+ "value":{
+   "analysis":{
+     "authors":"Sergei L Kosakovsky Pond",
+     "citation":"**Perform a Genetic Algorithm search model selection for an MSS model on a collection of alignments",
+     "contact":"spond@temple.edu",
+     "info":"mss_selector : Genetic Algorithms for Recombination Detection. Implements a heuristic\n    approach to screening alignments of sequences for recombination, by using the CHC genetic algorithm to search for phylogenetic\n    incongruence among different partitions of the data. The number of partitions is determined using a step-up procedure, while the\n    placement of breakpoints is searched for with the GA. The best fitting model (based on c-AIC) is returned; and additional post-hoc\n    tests run to distinguish topological incongruence from rate-variation. v0.2 adds  and spooling results to JSON after each breakpoint search conclusion",
+     "requirements":"A collection of coding alignments with trees in the corresponding alignment files ",
+     "version":"0.0.1"
+    },
+   "input":{
+    }
+  }
+}
