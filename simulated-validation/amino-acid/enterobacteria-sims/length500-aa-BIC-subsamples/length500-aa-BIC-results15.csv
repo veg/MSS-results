@@ -1,2 +1,0 @@
-filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
-length500-aa-BIC-output15.tsv,20,0.9993133703357321,35,0.0008154625971382,4,0.6369280613911652,0,,0.9322033898305084,0.8333333333333334,1.0,0.9090909090909091,"['GAA', 'GAG', 'AAC', 'AAT']",0.6369280613911652

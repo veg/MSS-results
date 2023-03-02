@@ -1,2 +1,0 @@
-filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
-length1000-aa-BIC-output16.tsv,20,0.9999649070071355,39,3.8676110401553846e-05,0,,0,,1.0,1.0,1.0,1.0,[],

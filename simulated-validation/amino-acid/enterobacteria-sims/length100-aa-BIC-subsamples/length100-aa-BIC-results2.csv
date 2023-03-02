@@ -1,2 +1,0 @@
-filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
-length100-aa-BIC-output2.tsv,18,0.9979554863496184,26,0.0034655887518120158,13,0.37934902491742434,2,0.699942205940181,0.7457627118644068,0.5806451612903226,0.9,0.7058823529411764,"['TGC', 'TGT', 'TTC', 'TTT', 'CAC', 'CAT', 'ATA', 'ATC', 'ATT', 'AAA', 'AAG', 'AAC', 'AAT', 'TAC', 'TAT']",0.42209478238712517
