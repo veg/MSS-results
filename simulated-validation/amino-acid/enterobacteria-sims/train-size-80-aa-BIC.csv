@@ -1,0 +1,11 @@
+filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
+train-size-80-aa-BIC-subsample1.tsv,5,0.9999985797388836,13,0.978874172435796,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample2.tsv,5,0.9999999291843468,13,0.9937139201431479,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample3.tsv,5,0.9999992897159702,13,0.9999342164557581,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample4.tsv,5,0.9999978557248183,13,0.9962311873479144,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample5.tsv,5,0.9999997297882119,13,0.9967784930207532,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample6.tsv,5,0.9999968103103216,13,0.9964402172573563,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample7.tsv,5,0.9999992330118834,13,0.9999970411476093,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample8.tsv,5,0.999999027437739,13,0.9982442006900811,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample9.tsv,5,0.9999996037644378,13,0.9995810259170284,0,,0,,1.0,1.0,1.0,1.0,[],
+train-size-80-aa-BIC-subsample10.tsv,5,0.9999989335589301,13,0.9999178740241569,0,,0,,1.0,1.0,1.0,1.0,[],
