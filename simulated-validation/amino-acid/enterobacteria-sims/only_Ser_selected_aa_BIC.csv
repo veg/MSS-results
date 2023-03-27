@@ -1,0 +1,11 @@
+filename,TP,avg_TP_support,TN,avg_TN_support,FP,avg_FP_support,FN,avg_FN_support,accuracy,precision,recall,F1,ambiguous,avg_ambiguous_support
+only_Ser_selected_aa_BIC-subsample1.tsv,17,0.999999953735116,1,0.9999999537351162,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample2.tsv,17,0.9999999949215623,1,0.9999999949215627,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample3.tsv,17,0.9999957938594052,1,0.999999899034918,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample4.tsv,16,0.999062417878851,1,0.9999986086001239,0,,1,0.999998608600124,0.9444444444444444,1.0,0.9411764705882353,0.9696969696969697,[],
+only_Ser_selected_aa_BIC-subsample5.tsv,17,0.9999306496863655,1,0.9999995235275642,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample6.tsv,17,0.9999992929831253,1,0.9999993350823947,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample7.tsv,17,0.9999998306322868,1,0.9999999120970324,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample8.tsv,17,0.9951281343614183,1,0.9999998920016496,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample9.tsv,17,0.9999994152968336,1,0.9999994152968336,0,,0,,1.0,1.0,1.0,1.0,[],
+only_Ser_selected_aa_BIC-subsample10.tsv,17,0.9999930405207377,1,0.9999999979352964,0,,0,,1.0,1.0,1.0,1.0,[],
