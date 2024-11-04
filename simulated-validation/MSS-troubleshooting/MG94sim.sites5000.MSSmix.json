@@ -1,0 +1,1496 @@
+{
+ "assignments":  [
+[0, 1] 
+  ],
+ "baseline":{
+   "AIC-c":147339.7025899528,
+   "Log Likelihood":-73471.81349783474
+  },
+ "file":"/data/shares/veg/hverdonk/MSS-troubleshooting/MG94sim.sites5000.MSSmix.json",
+ "joint":{
+   "AIC-c":148760.5460945318,
+   "Log Likelihood":-73434.09246092236
+  },
+ "joint-model":{
+   "EFV":{
+     "mss_0.model_object":      [
+[0.009750628240671157],
+      [0.02323047817941832],
+      [0.02295688838655363],
+      [0.01044080395352718],
+      [0.008505862331931109],
+      [0.02026487364935789],
+      [0.02002621034930285],
+      [0.009107930163202634],
+      [0.006703135448874692],
+      [0.01596994962122057],
+      [0.01578186846442372],
+      [0.00717760141892373],
+      [0.01178095612557737],
+      [0.02806765240688448],
+      [0.02773709428625996],
+      [0.01261484391120545],
+      [0.009601431564127664],
+      [0.02287502312018135],
+      [0.0226056195896604],
+      [0.01028104673462195],
+      [0.008375712113941332],
+      [0.01995479600877604],
+      [0.01971978455251016],
+      [0.008968567562455324],
+      [0.006600569182711298],
+      [0.01572558963238265],
+      [0.01554038634999777],
+      [0.007067775236361406],
+      [0.01160069292026826],
+      [0.02763818259692719],
+      [0.0273126824245481],
+      [0.01242182119100611],
+      [0.01194055093499811],
+      [0.02844788059795967],
+      [0.02811284445707081],
+      [0.01278573527082186],
+      [0.01041621933619267],
+      [0.02481622209655727],
+      [0.02452395669372556],
+      [0.01115350737837595],
+      [0.008208612642786023],
+      [0.01955668826405922],
+      [0.01932636539898692],
+      [0.008789640340946306],
+      [0.01442687621846527],
+      [0.03437145022023297],
+      [0.03396665106484823],
+      [0.01544804935034949],
+      [0.02175269747113924],
+      [0.009776623967980595],
+      [0.007964771478599385],
+      [0.0189757465335301],
+      [0.01875226553053633],
+      [0.008528539442805893],
+      [0.01495403926069525],
+      [0.01477792267487961],
+      [0.006721006387746132],
+      [0.01103152386882404],
+      [0.02628216030753006],
+      [0.0259726302694896],
+      [0.01181236482205577] 
+      ],
+     "mss_0.model_object2":      [
+[0.009750628240671157],
+      [0.02323047817941832],
+      [0.02295688838655363],
+      [0.01044080395352718],
+      [0.008505862331931109],
+      [0.02026487364935789],
+      [0.02002621034930285],
+      [0.009107930163202634],
+      [0.006703135448874692],
+      [0.01596994962122057],
+      [0.01578186846442372],
+      [0.00717760141892373],
+      [0.01178095612557737],
+      [0.02806765240688448],
+      [0.02773709428625996],
+      [0.01261484391120545],
+      [0.009601431564127664],
+      [0.02287502312018135],
+      [0.0226056195896604],
+      [0.01028104673462195],
+      [0.008375712113941332],
+      [0.01995479600877604],
+      [0.01971978455251016],
+      [0.008968567562455324],
+      [0.006600569182711298],
+      [0.01572558963238265],
+      [0.01554038634999777],
+      [0.007067775236361406],
+      [0.01160069292026826],
+      [0.02763818259692719],
+      [0.0273126824245481],
+      [0.01242182119100611],
+      [0.01194055093499811],
+      [0.02844788059795967],
+      [0.02811284445707081],
+      [0.01278573527082186],
+      [0.01041621933619267],
+      [0.02481622209655727],
+      [0.02452395669372556],
+      [0.01115350737837595],
+      [0.008208612642786023],
+      [0.01955668826405922],
+      [0.01932636539898692],
+      [0.008789640340946306],
+      [0.01442687621846527],
+      [0.03437145022023297],
+      [0.03396665106484823],
+      [0.01544804935034949],
+      [0.02175269747113924],
+      [0.009776623967980595],
+      [0.007964771478599385],
+      [0.0189757465335301],
+      [0.01875226553053633],
+      [0.008528539442805893],
+      [0.01495403926069525],
+      [0.01477792267487961],
+      [0.006721006387746132],
+      [0.01103152386882404],
+      [0.02628216030753006],
+      [0.0259726302694896],
+      [0.01181236482205577] 
+      ]
+    },
+   "Trees":    [
+["mss_0.tree", "mss_0.tree2"] 
+    ],
+   "branch length":{
+    },
+   "global":{
+     "Mean scaler variable for synonymous rate between codon classes AAA and AAG":{
+       "ID":"mss_0.model_object.alpha_AAA_AAG_scaler_variable",
+       "MLE":1.068119829902891
+      },
+     "Mean scaler variable for synonymous rate between codon classes AAC and AAT":{
+       "ID":"mss_0.model_object.alpha_AAC_AAT_scaler_variable",
+       "MLE":0.8237365616189098
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACA and ACC":{
+       "ID":"mss_0.model_object.alpha_ACA_ACC_scaler_variable",
+       "MLE":0.8961959719474087
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACA and ACG":{
+       "ID":"mss_0.model_object.alpha_ACA_ACG_scaler_variable",
+       "MLE":0.7424310267080508
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACA and ACT":{
+       "ID":"mss_0.model_object.alpha_ACA_ACT_scaler_variable",
+       "MLE":0.7262677835323886
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACC and ACG":{
+       "ID":"mss_0.model_object.alpha_ACC_ACG_scaler_variable",
+       "MLE":1.000078118942203
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACC and ACT":{
+       "ID":"mss_0.model_object.alpha_ACC_ACT_scaler_variable",
+       "MLE":0.9103469319516494
+      },
+     "Mean scaler variable for synonymous rate between codon classes ACG and ACT":{
+       "ID":"mss_0.model_object.alpha_ACG_ACT_scaler_variable",
+       "MLE":1.003390955040047
+      },
+     "Mean scaler variable for synonymous rate between codon classes AGA and AGG":{
+       "ID":"mss_0.model_object.alpha_AGA_AGG_scaler_variable",
+       "MLE":1.039759945260719
+      },
+     "Mean scaler variable for synonymous rate between codon classes AGA and CGA":{
+       "ID":"mss_0.model_object.alpha_AGA_CGA_scaler_variable",
+       "MLE":0.8666846332325184
+      },
+     "Mean scaler variable for synonymous rate between codon classes AGC and AGT":{
+       "ID":"mss_0.model_object.alpha_AGC_AGT_scaler_variable",
+       "MLE":1.06459813132776
+      },
+     "Mean scaler variable for synonymous rate between codon classes AGG and CGG":{
+       "ID":"mss_0.model_object.alpha_AGG_CGG_scaler_variable",
+       "MLE":1.091097630759306
+      },
+     "Mean scaler variable for synonymous rate between codon classes ATA and ATC":{
+       "ID":"mss_0.model_object.alpha_ATA_ATC_scaler_variable",
+       "MLE":0.766518886752058
+      },
+     "Mean scaler variable for synonymous rate between codon classes ATA and ATT":{
+       "ID":"mss_0.model_object.alpha_ATA_ATT_scaler_variable",
+       "MLE":1.193238760626291
+      },
+     "Mean scaler variable for synonymous rate between codon classes ATC and ATT":{
+       "ID":"mss_0.model_object.alpha_ATC_ATT_scaler_variable",
+       "MLE":1.131049846266929
+      },
+     "Mean scaler variable for synonymous rate between codon classes CAA and CAG":{
+       "ID":"mss_0.model_object.alpha_CAA_CAG_scaler_variable",
+       "MLE":1.025996654376858
+      },
+     "Mean scaler variable for synonymous rate between codon classes CAC and CAT":{
+       "ID":"mss_0.model_object.alpha_CAC_CAT_scaler_variable",
+       "MLE":1.164653936165598
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCA and CCC":{
+       "ID":"mss_0.model_object.alpha_CCA_CCC_scaler_variable",
+       "MLE":0.9190083182791391
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCA and CCG":{
+       "ID":"mss_0.model_object.alpha_CCA_CCG_scaler_variable",
+       "MLE":0.6298572478085065
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCA and CCT":{
+       "ID":"mss_0.model_object.alpha_CCA_CCT_scaler_variable",
+       "MLE":0.749423772916948
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCC and CCG":{
+       "ID":"mss_0.model_object.alpha_CCC_CCG_scaler_variable",
+       "MLE":1.306518434595147
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCC and CCT":{
+       "ID":"mss_0.model_object.alpha_CCC_CCT_scaler_variable",
+       "MLE":0.9253747924908181
+      },
+     "Mean scaler variable for synonymous rate between codon classes CCG and CCT":{
+       "ID":"mss_0.model_object.alpha_CCG_CCT_scaler_variable",
+       "MLE":0.9872922088216018
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGA and CGC":{
+       "ID":"mss_0.model_object.alpha_CGA_CGC_scaler_variable",
+       "MLE":0.8616394126428295
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGA and CGG":{
+       "ID":"mss_0.model_object.alpha_CGA_CGG_scaler_variable",
+       "MLE":0.8704545131280242
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGA and CGT":{
+       "ID":"mss_0.model_object.alpha_CGA_CGT_scaler_variable",
+       "MLE":0.9383933111511115
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGC and CGG":{
+       "ID":"mss_0.model_object.alpha_CGC_CGG_scaler_variable",
+       "MLE":1.01415129376306
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGC and CGT":{
+       "ID":"mss_0.model_object.alpha_CGC_CGT_scaler_variable",
+       "MLE":1.160293759055973
+      },
+     "Mean scaler variable for synonymous rate between codon classes CGG and CGT":{
+       "ID":"mss_0.model_object.alpha_CGG_CGT_scaler_variable",
+       "MLE":1.193961813674265
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTA and CTC":{
+       "ID":"mss_0.model_object.alpha_CTA_CTC_scaler_variable",
+       "MLE":1.137453857726445
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTA and CTG":{
+       "ID":"mss_0.model_object.alpha_CTA_CTG_scaler_variable",
+       "MLE":1.014415474222414
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTA and CTT":{
+       "ID":"mss_0.model_object.alpha_CTA_CTT_scaler_variable",
+       "MLE":1.084782649489211
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTA and TTA":{
+       "ID":"mss_0.model_object.alpha_CTA_TTA_scaler_variable",
+       "MLE":0.8322950160057104
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTC and CTG":{
+       "ID":"mss_0.model_object.alpha_CTC_CTG_scaler_variable",
+       "MLE":0.8000957200964363
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTC and CTT":{
+       "ID":"mss_0.model_object.alpha_CTC_CTT_scaler_variable",
+       "MLE":1.084512935879103
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTG and CTT":{
+       "ID":"mss_0.model_object.alpha_CTG_CTT_scaler_variable",
+       "MLE":0.8134224456365439
+      },
+     "Mean scaler variable for synonymous rate between codon classes CTG and TTG":{
+       "ID":"mss_0.model_object.alpha_CTG_TTG_scaler_variable",
+       "MLE":0.9220840849624468
+      },
+     "Mean scaler variable for synonymous rate between codon classes GAA and GAG":{
+       "ID":"mss_0.model_object.alpha_GAA_GAG_scaler_variable",
+       "MLE":0.9111794180806161
+      },
+     "Mean scaler variable for synonymous rate between codon classes GAC and GAT":{
+       "ID":"mss_0.model_object.alpha_GAC_GAT_scaler_variable",
+       "MLE":0.9953089017385424
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCA and GCC":{
+       "ID":"mss_0.model_object.alpha_GCA_GCC_scaler_variable",
+       "MLE":0.9976340054147219
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCA and GCG":{
+       "ID":"mss_0.model_object.alpha_GCA_GCG_scaler_variable",
+       "MLE":1.1440006308183
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCA and GCT":{
+       "ID":"mss_0.model_object.alpha_GCA_GCT_scaler_variable",
+       "MLE":1.174137408305913
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCC and GCG":{
+       "ID":"mss_0.model_object.alpha_GCC_GCG_scaler_variable",
+       "MLE":1.073234609498464
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCC and GCT":{
+       "ID":"mss_0.model_object.alpha_GCC_GCT_scaler_variable",
+       "MLE":0.7477744988919756
+      },
+     "Mean scaler variable for synonymous rate between codon classes GCG and GCT":{
+       "ID":"mss_0.model_object.alpha_GCG_GCT_scaler_variable",
+       "MLE":1.09921027997787
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGA and GGC":{
+       "ID":"mss_0.model_object.alpha_GGA_GGC_scaler_variable",
+       "MLE":0.796191766153732
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGA and GGG":{
+       "ID":"mss_0.model_object.alpha_GGA_GGG_scaler_variable",
+       "MLE":0.9123430972761274
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGA and GGT":{
+       "ID":"mss_0.model_object.alpha_GGA_GGT_scaler_variable",
+       "MLE":0.7812435268230337
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGC and GGG":{
+       "ID":"mss_0.model_object.alpha_GGC_GGG_scaler_variable",
+       "MLE":0.9506877072161508
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGC and GGT":{
+       "ID":"mss_0.model_object.alpha_GGC_GGT_scaler_variable",
+       "MLE":0.9717490664849666
+      },
+     "Mean scaler variable for synonymous rate between codon classes GGG and GGT":{
+       "ID":"mss_0.model_object.alpha_GGG_GGT_scaler_variable",
+       "MLE":0.7907323356757778
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTA and GTC":{
+       "ID":"mss_0.model_object.alpha_GTA_GTC_scaler_variable",
+       "MLE":1.056615374861481
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTA and GTG":{
+       "ID":"mss_0.model_object.alpha_GTA_GTG_scaler_variable",
+       "MLE":0.7905751728585797
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTA and GTT":{
+       "ID":"mss_0.model_object.alpha_GTA_GTT_scaler_variable",
+       "MLE":1.157702022875051
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTC and GTG":{
+       "ID":"mss_0.model_object.alpha_GTC_GTG_scaler_variable",
+       "MLE":0.8531990858594166
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTC and GTT":{
+       "ID":"mss_0.model_object.alpha_GTC_GTT_scaler_variable",
+       "MLE":0.9343840657323943
+      },
+     "Mean scaler variable for synonymous rate between codon classes GTG and GTT":{
+       "ID":"mss_0.model_object.alpha_GTG_GTT_scaler_variable",
+       "MLE":0.9047317638292539
+      },
+     "Mean scaler variable for synonymous rate between codon classes TAC and TAT":{
+       "ID":"mss_0.model_object.alpha_TAC_TAT_scaler_variable",
+       "MLE":1.030581718379076
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCA and TCC":{
+       "ID":"mss_0.model_object.alpha_TCA_TCC_scaler_variable",
+       "MLE":1.105041870391489
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCA and TCG":{
+       "ID":"mss_0.model_object.alpha_TCA_TCG_scaler_variable",
+       "MLE":1.224089093321151
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCA and TCT":{
+       "ID":"mss_0.model_object.alpha_TCA_TCT_scaler_variable",
+       "MLE":0.5468649691261036
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCC and TCG":{
+       "ID":"mss_0.model_object.alpha_TCC_TCG_scaler_variable",
+       "MLE":1.143860192838934
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCC and TCT":{
+       "ID":"mss_0.model_object.alpha_TCC_TCT_scaler_variable",
+       "MLE":1.117271006932872
+      },
+     "Mean scaler variable for synonymous rate between codon classes TCG and TCT":{
+       "ID":"mss_0.model_object.alpha_TCG_TCT_scaler_variable",
+       "MLE":1.043489578272687
+      },
+     "Mean scaler variable for synonymous rate between codon classes TGC and TGT":{
+       "ID":"mss_0.model_object.alpha_TGC_TGT_scaler_variable",
+       "MLE":0.9834889735387027
+      },
+     "Mean scaler variable for synonymous rate between codon classes TTA and TTG":{
+       "ID":"mss_0.model_object.alpha_TTA_TTG_scaler_variable",
+       "MLE":0.917871710138172
+      },
+     "Mean scaler variable for synonymous rate between codon classes TTC and TTT":{
+       "ID":"mss_0.model_object.alpha_TTC_TTT_scaler_variable",
+       "MLE":0.8014657225833516
+      },
+     "Substitution rate from nucleotide A to nucleotide C":{
+       "ID":"mss_0.model_object.theta_AC",
+       "MLE":0.5073317814326529,
+       "constraint":"0.5073317814326529"
+      },
+     "Substitution rate from nucleotide A to nucleotide G":{
+       "ID":"mss_0.model_object.theta_AG",
+       "MLE":1,
+       "constraint":"1"
+      },
+     "Substitution rate from nucleotide A to nucleotide T":{
+       "ID":"mss_0.model_object.theta_AT",
+       "MLE":0.4823403101083608,
+       "constraint":"0.4823403101083608"
+      },
+     "Substitution rate from nucleotide C to nucleotide G":{
+       "ID":"mss_0.model_object.theta_CG",
+       "MLE":0.4870734461430355,
+       "constraint":"0.4870734461430355"
+      },
+     "Substitution rate from nucleotide C to nucleotide T":{
+       "ID":"mss_0.model_object.theta_CT",
+       "MLE":0.9829559843136609,
+       "constraint":"0.9829559843136609"
+      },
+     "Substitution rate from nucleotide G to nucleotide T":{
+       "ID":"mss_0.model_object.theta_GT",
+       "MLE":0.4795578507553208,
+       "constraint":"0.4795578507553208"
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AAA and AAG":{
+       "ID":"mss_0.model_object2.alpha_AAA_AAG_scaler_variable",
+       "MLE":1.043671295336097
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AAC and AAT":{
+       "ID":"mss_0.model_object2.alpha_AAC_AAT_scaler_variable",
+       "MLE":0.8047123481021043
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACA and ACC":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACC_scaler_variable",
+       "MLE":0.8753446578172861
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACA and ACG":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACG_scaler_variable",
+       "MLE":0.7248712960142448
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACA and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACT_scaler_variable",
+       "MLE":0.709824396952291
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACC and ACG":{
+       "ID":"mss_0.model_object2.alpha_ACC_ACG_scaler_variable",
+       "MLE":0.9780400079685098
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACC and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACC_ACT_scaler_variable",
+       "MLE":0.888597054122206
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ACG and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACG_ACT_scaler_variable",
+       "MLE":0.9805620366531791
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AGA and AGG":{
+       "ID":"mss_0.model_object2.alpha_AGA_AGG_scaler_variable",
+       "MLE":1.015818719068366
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AGA and CGA":{
+       "ID":"mss_0.model_object2.alpha_AGA_CGA_scaler_variable",
+       "MLE":0.8464017994759793
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AGC and AGT":{
+       "ID":"mss_0.model_object2.alpha_AGC_AGT_scaler_variable",
+       "MLE":1.040542442310524
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes AGG and CGG":{
+       "ID":"mss_0.model_object2.alpha_AGG_CGG_scaler_variable",
+       "MLE":1.066342871208162
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ATA and ATC":{
+       "ID":"mss_0.model_object2.alpha_ATA_ATC_scaler_variable",
+       "MLE":0.7486550252925841
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ATA and ATT":{
+       "ID":"mss_0.model_object2.alpha_ATA_ATT_scaler_variable",
+       "MLE":1.165511562457236
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes ATC and ATT":{
+       "ID":"mss_0.model_object2.alpha_ATC_ATT_scaler_variable",
+       "MLE":1.105304242618612
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CAA and CAG":{
+       "ID":"mss_0.model_object2.alpha_CAA_CAG_scaler_variable",
+       "MLE":1.00288593587446
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CAC and CAT":{
+       "ID":"mss_0.model_object2.alpha_CAC_CAT_scaler_variable",
+       "MLE":1.137102215758253
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCA and CCC":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCC_scaler_variable",
+       "MLE":0.8978170393379996
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCA and CCG":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCG_scaler_variable",
+       "MLE":0.6148423172417276
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCA and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCT_scaler_variable",
+       "MLE":0.7308543467895734
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCC and CCG":{
+       "ID":"mss_0.model_object2.alpha_CCC_CCG_scaler_variable",
+       "MLE":1.275027073295137
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCC and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCC_CCT_scaler_variable",
+       "MLE":0.9042613941932559
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CCG and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCG_CCT_scaler_variable",
+       "MLE":0.9650490869632511
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGA and CGC":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGC_scaler_variable",
+       "MLE":0.841084289208108
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGA and CGG":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGG_scaler_variable",
+       "MLE":0.8501627445178803
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGA and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGT_scaler_variable",
+       "MLE":0.9163001671388388
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGC and CGG":{
+       "ID":"mss_0.model_object2.alpha_CGC_CGG_scaler_variable",
+       "MLE":0.9909800015503473
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGC and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGC_CGT_scaler_variable",
+       "MLE":1.133811212296485
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CGG and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGG_CGT_scaler_variable",
+       "MLE":1.166159397484595
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTA and CTC":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTC_scaler_variable",
+       "MLE":1.110426294300942
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTA and CTG":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTG_scaler_variable",
+       "MLE":0.9923436899359472
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTA and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTT_scaler_variable",
+       "MLE":1.059932183391088
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTA and TTA":{
+       "ID":"mss_0.model_object2.alpha_CTA_TTA_scaler_variable",
+       "MLE":0.812177001885967
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTC and CTG":{
+       "ID":"mss_0.model_object2.alpha_CTC_CTG_scaler_variable",
+       "MLE":0.7811309163836315
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTC and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTC_CTT_scaler_variable",
+       "MLE":1.059330461012738
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTG and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTG_CTT_scaler_variable",
+       "MLE":0.7945812425803233
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes CTG and TTG":{
+       "ID":"mss_0.model_object2.alpha_CTG_TTG_scaler_variable",
+       "MLE":0.9001387198914482
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GAA and GAG":{
+       "ID":"mss_0.model_object2.alpha_GAA_GAG_scaler_variable",
+       "MLE":0.8909290271478154
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GAC and GAT":{
+       "ID":"mss_0.model_object2.alpha_GAC_GAT_scaler_variable",
+       "MLE":0.9721768336912461
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCA and GCC":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCC_scaler_variable",
+       "MLE":0.9750225855158444
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCA and GCG":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCG_scaler_variable",
+       "MLE":1.11704163671827
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCA and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCT_scaler_variable",
+       "MLE":1.14875204564834
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCC and GCG":{
+       "ID":"mss_0.model_object2.alpha_GCC_GCG_scaler_variable",
+       "MLE":1.048312213721185
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCC and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCC_GCT_scaler_variable",
+       "MLE":0.7303415534530717
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GCG and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCG_GCT_scaler_variable",
+       "MLE":1.074557585803701
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGA and GGC":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGC_scaler_variable",
+       "MLE":0.7782511884499256
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGA and GGG":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGG_scaler_variable",
+       "MLE":0.8922648495880917
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGA and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGT_scaler_variable",
+       "MLE":0.7620108066176169
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGC and GGG":{
+       "ID":"mss_0.model_object2.alpha_GGC_GGG_scaler_variable",
+       "MLE":0.9290791761472537
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGC and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGC_GGT_scaler_variable",
+       "MLE":0.9494373853136057
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GGG and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGG_GGT_scaler_variable",
+       "MLE":0.772061024920909
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTA and GTC":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTC_scaler_variable",
+       "MLE":1.032574446515732
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTA and GTG":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTG_scaler_variable",
+       "MLE":0.7718156697829127
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTA and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTT_scaler_variable",
+       "MLE":1.129521765685314
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTC and GTG":{
+       "ID":"mss_0.model_object2.alpha_GTC_GTG_scaler_variable",
+       "MLE":0.8330776627734732
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTC and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTC_GTT_scaler_variable",
+       "MLE":0.9125788878336892
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes GTG and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTG_GTT_scaler_variable",
+       "MLE":0.8842507541648331
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TAC and TAT":{
+       "ID":"mss_0.model_object2.alpha_TAC_TAT_scaler_variable",
+       "MLE":1.006884483143197
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCA and TCC":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCC_scaler_variable",
+       "MLE":1.080487803338104
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCA and TCG":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCG_scaler_variable",
+       "MLE":1.198177147784741
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCA and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCT_scaler_variable",
+       "MLE":0.5336121323846318
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCC and TCG":{
+       "ID":"mss_0.model_object2.alpha_TCC_TCG_scaler_variable",
+       "MLE":1.116941588398223
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCC and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCC_TCT_scaler_variable",
+       "MLE":1.090197043926611
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TCG and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCG_TCT_scaler_variable",
+       "MLE":1.019583300865205
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TGC and TGT":{
+       "ID":"mss_0.model_object2.alpha_TGC_TGT_scaler_variable",
+       "MLE":0.9612551577572568
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TTA and TTG":{
+       "ID":"mss_0.model_object2.alpha_TTA_TTG_scaler_variable",
+       "MLE":0.8965046960528086
+      },
+     "[mss_0.model_object2] Mean scaler variable for synonymous rate between codon classes TTC and TTT":{
+       "ID":"mss_0.model_object2.alpha_TTC_TTT_scaler_variable",
+       "MLE":0.7833740449747681
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide A to nucleotide C":{
+       "ID":"mss_0.model_object2.theta_AC",
+       "MLE":0.5073317814326529,
+       "constraint":"0.5073317814326529"
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide A to nucleotide G":{
+       "ID":"mss_0.model_object2.theta_AG",
+       "MLE":1,
+       "constraint":"1"
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide A to nucleotide T":{
+       "ID":"mss_0.model_object2.theta_AT",
+       "MLE":0.4823403101083608,
+       "constraint":"0.4823403101083608"
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide C to nucleotide G":{
+       "ID":"mss_0.model_object2.theta_CG",
+       "MLE":0.4870734461430355,
+       "constraint":"0.4870734461430355"
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide C to nucleotide T":{
+       "ID":"mss_0.model_object2.theta_CT",
+       "MLE":0.9829559843136609,
+       "constraint":"0.9829559843136609"
+      },
+     "[mss_0.model_object2] Substitution rate from nucleotide G to nucleotide T":{
+       "ID":"mss_0.model_object2.theta_GT",
+       "MLE":0.4795578507553208,
+       "constraint":"0.4795578507553208"
+      },
+     "[mss_0.model_object2] non-synonymous/synonymous rate ratio":{
+       "ID":"mss_0.model_object2.omega",
+       "MLE":0.4951780352216511,
+       "constraint":"0.4951780352216511"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AAA and AAG":{
+       "ID":"mss_0.model_object2.alpha_AAA_AAG",
+       "MLE":1.106044408389095,
+       "constraint":"mss_0.model_object2.alpha_AAA_AAG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AAC and AAT":{
+       "ID":"mss_0.model_object2.alpha_AAC_AAT",
+       "MLE":0.8528045151355496,
+       "constraint":"mss_0.model_object2.alpha_AAC_AAT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACA and ACC":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACC",
+       "MLE":0.9276580361255328,
+       "constraint":"mss_0.model_object2.alpha_ACA_ACC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACA and ACG":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACG",
+       "MLE":0.7681919080663464,
+       "constraint":"mss_0.model_object2.alpha_ACA_ACG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACA and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACA_ACT",
+       "MLE":0.7522457585023598,
+       "constraint":"mss_0.model_object2.alpha_ACA_ACT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACC and ACG":{
+       "ID":"mss_0.model_object2.alpha_ACC_ACG",
+       "MLE":1.0364907867338,
+       "constraint":"mss_0.model_object2.alpha_ACC_ACG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACC and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACC_ACT",
+       "MLE":0.9417024377453864,
+       "constraint":"mss_0.model_object2.alpha_ACC_ACT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ACG and ACT":{
+       "ID":"mss_0.model_object2.alpha_ACG_ACT",
+       "MLE":1.039163539866842,
+       "constraint":"mss_0.model_object2.alpha_ACG_ACT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AGA and AGG":{
+       "ID":"mss_0.model_object2.alpha_AGA_AGG",
+       "MLE":1.076527273657288,
+       "constraint":"mss_0.model_object2.alpha_AGA_AGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AGA and CGA":{
+       "ID":"mss_0.model_object2.alpha_AGA_CGA",
+       "MLE":0.8969854605988761,
+       "constraint":"mss_0.model_object2.alpha_AGA_CGA_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AGC and AGT":{
+       "ID":"mss_0.model_object2.alpha_AGC_AGT",
+       "MLE":1.102728565164248,
+       "constraint":"mss_0.model_object2.alpha_AGC_AGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes AGG and CGG":{
+       "ID":"mss_0.model_object2.alpha_AGG_CGG",
+       "MLE":1.130070909678077,
+       "constraint":"mss_0.model_object2.alpha_AGG_CGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ATA and ATC":{
+       "ID":"mss_0.model_object2.alpha_ATA_ATC",
+       "MLE":0.7933970285832193,
+       "constraint":"mss_0.model_object2.alpha_ATA_ATC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ATA and ATT":{
+       "ID":"mss_0.model_object2.alpha_ATA_ATT",
+       "MLE":1.235166237041641,
+       "constraint":"mss_0.model_object2.alpha_ATA_ATT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes ATC and ATT":{
+       "ID":"mss_0.model_object2.alpha_ATC_ATT",
+       "MLE":1.171360736450425,
+       "constraint":"mss_0.model_object2.alpha_ATC_ATT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CAA and CAG":{
+       "ID":"mss_0.model_object2.alpha_CAA_CAG",
+       "MLE":1.062821586243587,
+       "constraint":"mss_0.model_object2.alpha_CAA_CAG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CAC and CAT":{
+       "ID":"mss_0.model_object2.alpha_CAC_CAT",
+       "MLE":1.205059057508378,
+       "constraint":"mss_0.model_object2.alpha_CAC_CAT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCA and CCC":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCC",
+       "MLE":0.9514734385757528,
+       "constraint":"mss_0.model_object2.alpha_CCA_CCC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCA and CCG":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCG",
+       "MLE":0.6515872478865198,
+       "constraint":"mss_0.model_object2.alpha_CCA_CCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCA and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCA_CCT",
+       "MLE":0.7745325249681738,
+       "constraint":"mss_0.model_object2.alpha_CCA_CCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCC and CCG":{
+       "ID":"mss_0.model_object2.alpha_CCC_CCG",
+       "MLE":1.351226742811447,
+       "constraint":"mss_0.model_object2.alpha_CCC_CCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCC and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCC_CCT",
+       "MLE":0.9583029285551969,
+       "constraint":"mss_0.model_object2.alpha_CCC_CCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CCG and CCT":{
+       "ID":"mss_0.model_object2.alpha_CCG_CCT",
+       "MLE":1.022723487008398,
+       "constraint":"mss_0.model_object2.alpha_CCG_CCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGA and CGC":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGC",
+       "MLE":0.8913501590201001,
+       "constraint":"mss_0.model_object2.alpha_CGA_CGC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGA and CGG":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGG",
+       "MLE":0.900971171667526,
+       "constraint":"mss_0.model_object2.alpha_CGA_CGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGA and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGA_CGT",
+       "MLE":0.9710611768272641,
+       "constraint":"mss_0.model_object2.alpha_CGA_CGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGC and CGG":{
+       "ID":"mss_0.model_object2.alpha_CGC_CGG",
+       "MLE":1.050204115451127,
+       "constraint":"mss_0.model_object2.alpha_CGC_CGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGC and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGC_CGT",
+       "MLE":1.20157137322201,
+       "constraint":"mss_0.model_object2.alpha_CGC_CGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CGG and CGT":{
+       "ID":"mss_0.model_object2.alpha_CGG_CGT",
+       "MLE":1.235852788748842,
+       "constraint":"mss_0.model_object2.alpha_CGG_CGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTA and CTC":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTC",
+       "MLE":1.176788898217484,
+       "constraint":"mss_0.model_object2.alpha_CTA_CTC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTA and CTG":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTG",
+       "MLE":1.051649302188003,
+       "constraint":"mss_0.model_object2.alpha_CTA_CTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTA and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTA_CTT",
+       "MLE":1.123277098785999,
+       "constraint":"mss_0.model_object2.alpha_CTA_CTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTA and TTA":{
+       "ID":"mss_0.model_object2.alpha_CTA_TTA",
+       "MLE":0.8607152803497475,
+       "constraint":"mss_0.model_object2.alpha_CTA_TTA_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTC and CTG":{
+       "ID":"mss_0.model_object2.alpha_CTC_CTG",
+       "MLE":0.8278137821235558,
+       "constraint":"mss_0.model_object2.alpha_CTC_CTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTC and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTC_CTT",
+       "MLE":1.122639415566244,
+       "constraint":"mss_0.model_object2.alpha_CTC_CTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTG and CTT":{
+       "ID":"mss_0.model_object2.alpha_CTG_CTT",
+       "MLE":0.8420679425544695,
+       "constraint":"mss_0.model_object2.alpha_CTG_CTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes CTG and TTG":{
+       "ID":"mss_0.model_object2.alpha_CTG_TTG",
+       "MLE":0.9539338701366118,
+       "constraint":"mss_0.model_object2.alpha_CTG_TTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GAA and GAG":{
+       "ID":"mss_0.model_object2.alpha_GAA_GAG",
+       "MLE":0.9441737768892486,
+       "constraint":"mss_0.model_object2.alpha_GAA_GAG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GAC and GAT":{
+       "ID":"mss_0.model_object2.alpha_GAC_GAT",
+       "MLE":1.03027721053049,
+       "constraint":"mss_0.model_object2.alpha_GAC_GAT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCA and GCC":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCC",
+       "MLE":1.033293033526989,
+       "constraint":"mss_0.model_object2.alpha_GCA_GCC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCA and GCG":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCG",
+       "MLE":1.183799594519052,
+       "constraint":"mss_0.model_object2.alpha_GCA_GCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCA and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCA_GCT",
+       "MLE":1.217405118252021,
+       "constraint":"mss_0.model_object2.alpha_GCA_GCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCC and GCG":{
+       "ID":"mss_0.model_object2.alpha_GCC_GCG",
+       "MLE":1.110962682804186,
+       "constraint":"mss_0.model_object2.alpha_GCC_GCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCC and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCC_GCT",
+       "MLE":0.7739890854723945,
+       "constraint":"mss_0.model_object2.alpha_GCC_GCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GCG and GCT":{
+       "ID":"mss_0.model_object2.alpha_GCG_GCT",
+       "MLE":1.138776561721503,
+       "constraint":"mss_0.model_object2.alpha_GCG_GCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGA and GGC":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGC",
+       "MLE":0.8247619524977045,
+       "constraint":"mss_0.model_object2.alpha_GGA_GGC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGA and GGG":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGG",
+       "MLE":0.9455894323233597,
+       "constraint":"mss_0.model_object2.alpha_GGA_GGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGA and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGA_GGT",
+       "MLE":0.8075509938405112,
+       "constraint":"mss_0.model_object2.alpha_GGA_GGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGC and GGG":{
+       "ID":"mss_0.model_object2.alpha_GGC_GGG",
+       "MLE":0.9846039000215046,
+       "constraint":"mss_0.model_object2.alpha_GGC_GGG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGC and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGC_GGT",
+       "MLE":1.006178780459323,
+       "constraint":"mss_0.model_object2.alpha_GGC_GGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GGG and GGT":{
+       "ID":"mss_0.model_object2.alpha_GGG_GGT",
+       "MLE":0.8182018451258924,
+       "constraint":"mss_0.model_object2.alpha_GGG_GGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTA and GTC":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTC",
+       "MLE":1.094284376621093,
+       "constraint":"mss_0.model_object2.alpha_GTA_GTC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTA and GTG":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTG",
+       "MLE":0.8179418267851917,
+       "constraint":"mss_0.model_object2.alpha_GTA_GTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTA and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTA_GTT",
+       "MLE":1.197025575650907,
+       "constraint":"mss_0.model_object2.alpha_GTA_GTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTC and GTG":{
+       "ID":"mss_0.model_object2.alpha_GTC_GTG",
+       "MLE":0.8828650311473092,
+       "constraint":"mss_0.model_object2.alpha_GTC_GTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTC and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTC_GTT",
+       "MLE":0.9671175020458386,
+       "constraint":"mss_0.model_object2.alpha_GTC_GTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes GTG and GTT":{
+       "ID":"mss_0.model_object2.alpha_GTG_GTT",
+       "MLE":0.9370963890914508,
+       "constraint":"mss_0.model_object2.alpha_GTG_GTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TAC and TAT":{
+       "ID":"mss_0.model_object2.alpha_TAC_TAT",
+       "MLE":1.067059099403171,
+       "constraint":"mss_0.model_object2.alpha_TAC_TAT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCA and TCC":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCC",
+       "MLE":1.145061187900041,
+       "constraint":"mss_0.model_object2.alpha_TCA_TCC_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCA and TCG":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCG",
+       "MLE":1.269784021548793,
+       "constraint":"mss_0.model_object2.alpha_TCA_TCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCA and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCA_TCT",
+       "MLE":0.5655024890595842,
+       "constraint":"mss_0.model_object2.alpha_TCA_TCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCC and TCG":{
+       "ID":"mss_0.model_object2.alpha_TCC_TCG",
+       "MLE":1.183693566993478,
+       "constraint":"mss_0.model_object2.alpha_TCC_TCG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCC and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCC_TCT",
+       "MLE":1.155350683558887,
+       "constraint":"mss_0.model_object2.alpha_TCC_TCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TCG and TCT":{
+       "ID":"mss_0.model_object2.alpha_TCG_TCT",
+       "MLE":1.080516838824907,
+       "constraint":"mss_0.model_object2.alpha_TCG_TCT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TGC and TGT":{
+       "ID":"mss_0.model_object2.alpha_TGC_TGT",
+       "MLE":1.018702820537196,
+       "constraint":"mss_0.model_object2.alpha_TGC_TGT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TTA and TTG":{
+       "ID":"mss_0.model_object2.alpha_TTA_TTG",
+       "MLE":0.9500826654856439,
+       "constraint":"mss_0.model_object2.alpha_TTA_TTG_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "[mss_0.model_object2] synonymous rate between codon classes TTC and TTT":{
+       "ID":"mss_0.model_object2.alpha_TTC_TTT",
+       "MLE":0.8301909672072227,
+       "constraint":"mss_0.model_object2.alpha_TTC_TTT_scaler_variable/mss_0.model_object2.scaler_variable"
+      },
+     "non-synonymous/synonymous rate ratio":{
+       "ID":"mss_0.model_object.omega",
+       "MLE":0.4951780352216511,
+       "constraint":"0.4951780352216511"
+      },
+     "synonymous rate between codon classes AAA and AAG":{
+       "ID":"mss_0.model_object.alpha_AAA_AAG",
+       "MLE":1.105812245031256,
+       "constraint":"mss_0.model_object.alpha_AAA_AAG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes AAC and AAT":{
+       "ID":"mss_0.model_object.alpha_AAC_AAT",
+       "MLE":0.8528050421093196,
+       "constraint":"mss_0.model_object.alpha_AAC_AAT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACA and ACC":{
+       "ID":"mss_0.model_object.alpha_ACA_ACC",
+       "MLE":0.927821440986853,
+       "constraint":"mss_0.model_object.alpha_ACA_ACC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACA and ACG":{
+       "ID":"mss_0.model_object.alpha_ACA_ACG",
+       "MLE":0.7686303516146976,
+       "constraint":"mss_0.model_object.alpha_ACA_ACG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACA and ACT":{
+       "ID":"mss_0.model_object.alpha_ACA_ACT",
+       "MLE":0.751896730795496,
+       "constraint":"mss_0.model_object.alpha_ACA_ACT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACC and ACG":{
+       "ID":"mss_0.model_object.alpha_ACC_ACG",
+       "MLE":1.035369439789033,
+       "constraint":"mss_0.model_object.alpha_ACC_ACG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACC and ACT":{
+       "ID":"mss_0.model_object.alpha_ACC_ACT",
+       "MLE":0.9424717680508675,
+       "constraint":"mss_0.model_object.alpha_ACC_ACT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ACG and ACT":{
+       "ID":"mss_0.model_object.alpha_ACG_ACT",
+       "MLE":1.038799181116006,
+       "constraint":"mss_0.model_object.alpha_ACG_ACT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes AGA and AGG":{
+       "ID":"mss_0.model_object.alpha_AGA_AGG",
+       "MLE":1.076451580780843,
+       "constraint":"mss_0.model_object.alpha_AGA_AGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes AGA and CGA":{
+       "ID":"mss_0.model_object.alpha_AGA_CGA",
+       "MLE":0.89726868950282,
+       "constraint":"mss_0.model_object.alpha_AGA_CGA_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes AGC and AGT":{
+       "ID":"mss_0.model_object.alpha_AGC_AGT",
+       "MLE":1.10216627077007,
+       "constraint":"mss_0.model_object.alpha_AGC_AGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes AGG and CGG":{
+       "ID":"mss_0.model_object.alpha_AGG_CGG",
+       "MLE":1.129600899487024,
+       "constraint":"mss_0.model_object.alpha_AGG_CGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ATA and ATC":{
+       "ID":"mss_0.model_object.alpha_ATA_ATC",
+       "MLE":0.7935682376529,
+       "constraint":"mss_0.model_object.alpha_ATA_ATC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ATA and ATT":{
+       "ID":"mss_0.model_object.alpha_ATA_ATT",
+       "MLE":1.235346443166808,
+       "constraint":"mss_0.model_object.alpha_ATA_ATT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes ATC and ATT":{
+       "ID":"mss_0.model_object.alpha_ATC_ATT",
+       "MLE":1.170962971314184,
+       "constraint":"mss_0.model_object.alpha_ATC_ATT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CAA and CAG":{
+       "ID":"mss_0.model_object.alpha_CAA_CAG",
+       "MLE":1.062202603123828,
+       "constraint":"mss_0.model_object.alpha_CAA_CAG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CAC and CAT":{
+       "ID":"mss_0.model_object.alpha_CAC_CAT",
+       "MLE":1.20575290129466,
+       "constraint":"mss_0.model_object.alpha_CAC_CAT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCA and CCC":{
+       "ID":"mss_0.model_object.alpha_CCA_CCC",
+       "MLE":0.9514388022653294,
+       "constraint":"mss_0.model_object.alpha_CCA_CCC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCA and CCG":{
+       "ID":"mss_0.model_object.alpha_CCA_CCG",
+       "MLE":0.6520840056978027,
+       "constraint":"mss_0.model_object.alpha_CCA_CCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCA and CCT":{
+       "ID":"mss_0.model_object.alpha_CCA_CCT",
+       "MLE":0.7758698617967128,
+       "constraint":"mss_0.model_object.alpha_CCA_CCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCC and CCG":{
+       "ID":"mss_0.model_object.alpha_CCC_CCG",
+       "MLE":1.352623594176445,
+       "constraint":"mss_0.model_object.alpha_CCC_CCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCC and CCT":{
+       "ID":"mss_0.model_object.alpha_CCC_CCT",
+       "MLE":0.9580299402105826,
+       "constraint":"mss_0.model_object.alpha_CCC_CCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CCG and CCT":{
+       "ID":"mss_0.model_object.alpha_CCG_CCT",
+       "MLE":1.022132333259033,
+       "constraint":"mss_0.model_object.alpha_CCG_CCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGA and CGC":{
+       "ID":"mss_0.model_object.alpha_CGA_CGC",
+       "MLE":0.8920454303227436,
+       "constraint":"mss_0.model_object.alpha_CGA_CGC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGA and CGG":{
+       "ID":"mss_0.model_object.alpha_CGA_CGG",
+       "MLE":0.9011716030468242,
+       "constraint":"mss_0.model_object.alpha_CGA_CGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGA and CGT":{
+       "ID":"mss_0.model_object.alpha_CGA_CGT",
+       "MLE":0.9715078637016473,
+       "constraint":"mss_0.model_object.alpha_CGA_CGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGC and CGG":{
+       "ID":"mss_0.model_object.alpha_CGC_CGG",
+       "MLE":1.04993923674223,
+       "constraint":"mss_0.model_object.alpha_CGC_CGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGC and CGT":{
+       "ID":"mss_0.model_object.alpha_CGC_CGT",
+       "MLE":1.201238859795433,
+       "constraint":"mss_0.model_object.alpha_CGC_CGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CGG and CGT":{
+       "ID":"mss_0.model_object.alpha_CGG_CGT",
+       "MLE":1.236095011718643,
+       "constraint":"mss_0.model_object.alpha_CGG_CGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTA and CTC":{
+       "ID":"mss_0.model_object.alpha_CTA_CTC",
+       "MLE":1.177592971142853,
+       "constraint":"mss_0.model_object.alpha_CTA_CTC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTA and CTG":{
+       "ID":"mss_0.model_object.alpha_CTA_CTG",
+       "MLE":1.05021273975067,
+       "constraint":"mss_0.model_object.alpha_CTA_CTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTA and CTT":{
+       "ID":"mss_0.model_object.alpha_CTA_CTT",
+       "MLE":1.123063071595326,
+       "constraint":"mss_0.model_object.alpha_CTA_CTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTA and TTA":{
+       "ID":"mss_0.model_object.alpha_CTA_TTA",
+       "MLE":0.8616655120627011,
+       "constraint":"mss_0.model_object.alpha_CTA_TTA_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTC and CTG":{
+       "ID":"mss_0.model_object.alpha_CTC_CTG",
+       "MLE":0.8283299492344206,
+       "constraint":"mss_0.model_object.alpha_CTC_CTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTC and CTT":{
+       "ID":"mss_0.model_object.alpha_CTC_CTT",
+       "MLE":1.122783840179189,
+       "constraint":"mss_0.model_object.alpha_CTC_CTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTG and CTT":{
+       "ID":"mss_0.model_object.alpha_CTG_CTT",
+       "MLE":0.8421269557835468,
+       "constraint":"mss_0.model_object.alpha_CTG_CTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes CTG and TTG":{
+       "ID":"mss_0.model_object.alpha_CTG_TTG",
+       "MLE":0.9546231083385253,
+       "constraint":"mss_0.model_object.alpha_CTG_TTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GAA and GAG":{
+       "ID":"mss_0.model_object.alpha_GAA_GAG",
+       "MLE":0.9433336314199932,
+       "constraint":"mss_0.model_object.alpha_GAA_GAG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GAC and GAT":{
+       "ID":"mss_0.model_object.alpha_GAC_GAT",
+       "MLE":1.030431923758176,
+       "constraint":"mss_0.model_object.alpha_GAC_GAT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCA and GCC":{
+       "ID":"mss_0.model_object.alpha_GCA_GCC",
+       "MLE":1.032839077004568,
+       "constraint":"mss_0.model_object.alpha_GCA_GCC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCA and GCG":{
+       "ID":"mss_0.model_object.alpha_GCA_GCG",
+       "MLE":1.184370770456878,
+       "constraint":"mss_0.model_object.alpha_GCA_GCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCA and GCT":{
+       "ID":"mss_0.model_object.alpha_GCA_GCT",
+       "MLE":1.215571031549883,
+       "constraint":"mss_0.model_object.alpha_GCA_GCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCC and GCG":{
+       "ID":"mss_0.model_object.alpha_GCC_GCG",
+       "MLE":1.111107517854657,
+       "constraint":"mss_0.model_object.alpha_GCC_GCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCC and GCT":{
+       "ID":"mss_0.model_object.alpha_GCC_GCT",
+       "MLE":0.7741623872595232,
+       "constraint":"mss_0.model_object.alpha_GCC_GCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GCG and GCT":{
+       "ID":"mss_0.model_object.alpha_GCG_GCT",
+       "MLE":1.137999832447895,
+       "constraint":"mss_0.model_object.alpha_GCG_GCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGA and GGC":{
+       "ID":"mss_0.model_object.alpha_GGA_GGC",
+       "MLE":0.8242882303626037,
+       "constraint":"mss_0.model_object.alpha_GGA_GGC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGA and GGG":{
+       "ID":"mss_0.model_object.alpha_GGA_GGG",
+       "MLE":0.9445383751834354,
+       "constraint":"mss_0.model_object.alpha_GGA_GGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGA and GGT":{
+       "ID":"mss_0.model_object.alpha_GGA_GGT",
+       "MLE":0.808812489129481,
+       "constraint":"mss_0.model_object.alpha_GGA_GGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGC and GGG":{
+       "ID":"mss_0.model_object.alpha_GGC_GGG",
+       "MLE":0.9842361113508092,
+       "constraint":"mss_0.model_object.alpha_GGC_GGG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGC and GGT":{
+       "ID":"mss_0.model_object.alpha_GGC_GGT",
+       "MLE":1.00604069574709,
+       "constraint":"mss_0.model_object.alpha_GGC_GGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GGG and GGT":{
+       "ID":"mss_0.model_object.alpha_GGG_GGT",
+       "MLE":0.818636144422052,
+       "constraint":"mss_0.model_object.alpha_GGG_GGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTA and GTC":{
+       "ID":"mss_0.model_object.alpha_GTA_GTC",
+       "MLE":1.093901814290204,
+       "constraint":"mss_0.model_object.alpha_GTA_GTC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTA and GTG":{
+       "ID":"mss_0.model_object.alpha_GTA_GTG",
+       "MLE":0.8184734355546985,
+       "constraint":"mss_0.model_object.alpha_GTA_GTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTA and GTT":{
+       "ID":"mss_0.model_object.alpha_GTA_GTT",
+       "MLE":1.198555664966053,
+       "constraint":"mss_0.model_object.alpha_GTA_GTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTC and GTG":{
+       "ID":"mss_0.model_object.alpha_GTC_GTG",
+       "MLE":0.8833072565262589,
+       "constraint":"mss_0.model_object.alpha_GTC_GTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTC and GTT":{
+       "ID":"mss_0.model_object.alpha_GTC_GTT",
+       "MLE":0.9673571377688127,
+       "constraint":"mss_0.model_object.alpha_GTC_GTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes GTG and GTT":{
+       "ID":"mss_0.model_object.alpha_GTG_GTT",
+       "MLE":0.9366584487080194,
+       "constraint":"mss_0.model_object.alpha_GTG_GTT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TAC and TAT":{
+       "ID":"mss_0.model_object.alpha_TAC_TAT",
+       "MLE":1.066949467451181,
+       "constraint":"mss_0.model_object.alpha_TAC_TAT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCA and TCC":{
+       "ID":"mss_0.model_object.alpha_TCA_TCC",
+       "MLE":1.144037211313872,
+       "constraint":"mss_0.model_object.alpha_TCA_TCC_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCA and TCG":{
+       "ID":"mss_0.model_object.alpha_TCA_TCG",
+       "MLE":1.267285439805758,
+       "constraint":"mss_0.model_object.alpha_TCA_TCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCA and TCT":{
+       "ID":"mss_0.model_object.alpha_TCA_TCT",
+       "MLE":0.5661630486658643,
+       "constraint":"mss_0.model_object.alpha_TCA_TCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCC and TCG":{
+       "ID":"mss_0.model_object.alpha_TCC_TCG",
+       "MLE":1.184225376622871,
+       "constraint":"mss_0.model_object.alpha_TCC_TCG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCC and TCT":{
+       "ID":"mss_0.model_object.alpha_TCC_TCT",
+       "MLE":1.156697896524492,
+       "constraint":"mss_0.model_object.alpha_TCC_TCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TCG and TCT":{
+       "ID":"mss_0.model_object.alpha_TCG_TCT",
+       "MLE":1.080312827186577,
+       "constraint":"mss_0.model_object.alpha_TCG_TCT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TGC and TGT":{
+       "ID":"mss_0.model_object.alpha_TGC_TGT",
+       "MLE":1.018194887263908,
+       "constraint":"mss_0.model_object.alpha_TGC_TGT_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TTA and TTG":{
+       "ID":"mss_0.model_object.alpha_TTA_TTG",
+       "MLE":0.950262084855076,
+       "constraint":"mss_0.model_object.alpha_TTA_TTG_scaler_variable/mss_0.model_object.scaler_variable"
+      },
+     "synonymous rate between codon classes TTC and TTT":{
+       "ID":"mss_0.model_object.alpha_TTC_TTT",
+       "MLE":0.8297482971419695,
+       "constraint":"mss_0.model_object.alpha_TTC_TTT_scaler_variable/mss_0.model_object.scaler_variable"
+      }
+    }
+  },
+ "mapping":  [
+["mss_0.model_object.alpha_AAA_AAG_scaler_variable"],
+  ["mss_0.model_object.alpha_AAC_AAT_scaler_variable"],
+  ["mss_0.model_object.alpha_ACA_ACC_scaler_variable"],
+  ["mss_0.model_object.alpha_ACA_ACG_scaler_variable"],
+  ["mss_0.model_object.alpha_ACA_ACT_scaler_variable"],
+  ["mss_0.model_object.alpha_ACC_ACG_scaler_variable"],
+  ["mss_0.model_object.alpha_ACC_ACT_scaler_variable"],
+  ["mss_0.model_object.alpha_ACG_ACT_scaler_variable"],
+  ["mss_0.model_object.alpha_AGA_AGG_scaler_variable"],
+  ["mss_0.model_object.alpha_AGA_CGA_scaler_variable"],
+  ["mss_0.model_object.alpha_AGC_AGT_scaler_variable"],
+  ["mss_0.model_object.alpha_AGG_CGG_scaler_variable"],
+  ["mss_0.model_object.alpha_ATA_ATC_scaler_variable"],
+  ["mss_0.model_object.alpha_ATA_ATT_scaler_variable"],
+  ["mss_0.model_object.alpha_ATC_ATT_scaler_variable"],
+  ["mss_0.model_object.alpha_CAA_CAG_scaler_variable"],
+  ["mss_0.model_object.alpha_CAC_CAT_scaler_variable"],
+  ["mss_0.model_object.alpha_CCA_CCC_scaler_variable"],
+  ["mss_0.model_object.alpha_CCA_CCG_scaler_variable"],
+  ["mss_0.model_object.alpha_CCA_CCT_scaler_variable"],
+  ["mss_0.model_object.alpha_CCC_CCG_scaler_variable"],
+  ["mss_0.model_object.alpha_CCC_CCT_scaler_variable"],
+  ["mss_0.model_object.alpha_CCG_CCT_scaler_variable"],
+  ["mss_0.model_object.alpha_CGA_CGC_scaler_variable"],
+  ["mss_0.model_object.alpha_CGA_CGG_scaler_variable"],
+  ["mss_0.model_object.alpha_CGA_CGT_scaler_variable"],
+  ["mss_0.model_object.alpha_CGC_CGG_scaler_variable"],
+  ["mss_0.model_object.alpha_CGC_CGT_scaler_variable"],
+  ["mss_0.model_object.alpha_CGG_CGT_scaler_variable"],
+  ["mss_0.model_object.alpha_CTA_CTC_scaler_variable"],
+  ["mss_0.model_object.alpha_CTA_CTG_scaler_variable"],
+  ["mss_0.model_object.alpha_CTA_CTT_scaler_variable"],
+  ["mss_0.model_object.alpha_CTA_TTA_scaler_variable"],
+  ["mss_0.model_object.alpha_CTC_CTG_scaler_variable"],
+  ["mss_0.model_object.alpha_CTC_CTT_scaler_variable"],
+  ["mss_0.model_object.alpha_CTG_CTT_scaler_variable"],
+  ["mss_0.model_object.alpha_CTG_TTG_scaler_variable"],
+  ["mss_0.model_object.alpha_GAA_GAG_scaler_variable"],
+  ["mss_0.model_object.alpha_GAC_GAT_scaler_variable"],
+  ["mss_0.model_object.alpha_GCA_GCC_scaler_variable"],
+  ["mss_0.model_object.alpha_GCA_GCG_scaler_variable"],
+  ["mss_0.model_object.alpha_GCA_GCT_scaler_variable"],
+  ["mss_0.model_object.alpha_GCC_GCG_scaler_variable"],
+  ["mss_0.model_object.alpha_GCC_GCT_scaler_variable"],
+  ["mss_0.model_object.alpha_GCG_GCT_scaler_variable"],
+  ["mss_0.model_object.alpha_GGA_GGC_scaler_variable"],
+  ["mss_0.model_object.alpha_GGA_GGG_scaler_variable"],
+  ["mss_0.model_object.alpha_GGA_GGT_scaler_variable"],
+  ["mss_0.model_object.alpha_GGC_GGG_scaler_variable"],
+  ["mss_0.model_object.alpha_GGC_GGT_scaler_variable"],
+  ["mss_0.model_object.alpha_GGG_GGT_scaler_variable"],
+  ["mss_0.model_object.alpha_GTA_GTC_scaler_variable"],
+  ["mss_0.model_object.alpha_GTA_GTG_scaler_variable"],
+  ["mss_0.model_object.alpha_GTA_GTT_scaler_variable"],
+  ["mss_0.model_object.alpha_GTC_GTG_scaler_variable"],
+  ["mss_0.model_object.alpha_GTC_GTT_scaler_variable"],
+  ["mss_0.model_object.alpha_GTG_GTT_scaler_variable"],
+  ["mss_0.model_object.alpha_TAC_TAT_scaler_variable"],
+  ["mss_0.model_object.alpha_TCA_TCC_scaler_variable"],
+  ["mss_0.model_object.alpha_TCA_TCG_scaler_variable"],
+  ["mss_0.model_object.alpha_TCA_TCT_scaler_variable"],
+  ["mss_0.model_object.alpha_TCC_TCG_scaler_variable"],
+  ["mss_0.model_object.alpha_TCC_TCT_scaler_variable"],
+  ["mss_0.model_object.alpha_TCG_TCT_scaler_variable"],
+  ["mss_0.model_object.alpha_TGC_TGT_scaler_variable"],
+  ["mss_0.model_object.alpha_TTA_TTG_scaler_variable"],
+  ["mss_0.model_object.alpha_TTC_TTT_scaler_variable"] 
+  ]
+}
