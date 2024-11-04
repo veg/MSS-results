@@ -1,0 +1,318 @@
+{
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "contact":"spond@temple.edu",
+   "info":"Fit one of the available codon models to the data, report fit results and model estimates. Model specific options will differ.",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "version":"0.1"
+  },
+ "branch attributes":{
+   "0":{
+     "D_elegans_1":{
+       "Nucleotide GTR":0.1321849178874911,
+       "original name":"D_elegans_1"
+      },
+     "D_erecta_1":{
+       "Nucleotide GTR":0.04310305618969078,
+       "original name":"D_erecta_1"
+      },
+     "D_mauritiana_1":{
+       "Nucleotide GTR":0.005353915478359617,
+       "original name":"D_mauritiana_1"
+      },
+     "D_melanogaster_1":{
+       "Nucleotide GTR":0.03141749700093381,
+       "original name":"D_melanogaster_1"
+      },
+     "D_rhopaloa_1":{
+       "Nucleotide GTR":0.08744163762135017,
+       "original name":"D_rhopaloa_1"
+      },
+     "D_santomea_1":{
+       "Nucleotide GTR":0.004224547047169592,
+       "original name":"D_santomea_1"
+      },
+     "D_sechellia_1":{
+       "Nucleotide GTR":0.008376953851444716,
+       "original name":"D_sechellia_1"
+      },
+     "D_simulans_1":{
+       "Nucleotide GTR":0.003006014695883209,
+       "original name":"D_simulans_1"
+      },
+     "D_subpulchrella_1":{
+       "Nucleotide GTR":0.02958862600183821,
+       "original name":"D_subpulchrella_1"
+      },
+     "D_suzukii_1":{
+       "Nucleotide GTR":0.03499032231220603,
+       "original name":"D_suzukii_1"
+      },
+     "D_takahashii_1":{
+       "Nucleotide GTR":0.08559183687670191,
+       "original name":"D_takahashii_1"
+      },
+     "D_yakuba_1":{
+       "Nucleotide GTR":0.009575877011371916,
+       "original name":"D_yakuba_1"
+      },
+     "Node1":{
+       "Nucleotide GTR":0.02771030642279293
+      },
+     "Node10":{
+       "Nucleotide GTR":0.005934942753809617
+      },
+     "Node12":{
+       "Nucleotide GTR":0.04023398376082955
+      },
+     "Node15":{
+       "Nucleotide GTR":0.03779124478194924
+      },
+     "Node16":{
+       "Nucleotide GTR":0.01708658021741635
+      },
+     "Node2":{
+       "Nucleotide GTR":0.04600224693947826
+      },
+     "Node6":{
+       "Nucleotide GTR":0.05245450749538604
+      },
+     "Node9":{
+       "Nucleotide GTR":0.1188343273014975
+      }
+    },
+   "attributes":{
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998, 999] 
+      ],
+     "name":"fitter.filter.default"
+    }
+  },
+ "fits":{
+   "Codon model":{
+     "AIC-c":29656.31233031596,
+     "Log Likelihood":-14725.27308538997,
+     "Rate Distributions":{
+       "Mean scaler variable for synonymous rate between codon classes AAA and AAG":0.6919069979700841,
+       "Mean scaler variable for synonymous rate between codon classes AAC and AAT":0.6661333840224456,
+       "Mean scaler variable for synonymous rate between codon classes ACA and ACC":0.9145622832616855,
+       "Mean scaler variable for synonymous rate between codon classes ACA and ACG":0.8948798403697056,
+       "Mean scaler variable for synonymous rate between codon classes ACA and ACT":0.8421016283385955,
+       "Mean scaler variable for synonymous rate between codon classes ACC and ACG":0.8454700449014514,
+       "Mean scaler variable for synonymous rate between codon classes ACC and ACT":0.8246751812536468,
+       "Mean scaler variable for synonymous rate between codon classes ACG and ACT":0.9924197370686551,
+       "Mean scaler variable for synonymous rate between codon classes AGA and AGG":0.6141104762156724,
+       "Mean scaler variable for synonymous rate between codon classes AGA and CGA":1.511213019669231,
+       "Mean scaler variable for synonymous rate between codon classes AGC and AGT":0.9985583120559511,
+       "Mean scaler variable for synonymous rate between codon classes AGG and CGG":0.9233122892451139,
+       "Mean scaler variable for synonymous rate between codon classes ATA and ATC":0.7909264207560297,
+       "Mean scaler variable for synonymous rate between codon classes ATA and ATT":1.226289100166966,
+       "Mean scaler variable for synonymous rate between codon classes ATC and ATT":0.988904612307371,
+       "Mean scaler variable for synonymous rate between codon classes CAA and CAG":0.9548626566715308,
+       "Mean scaler variable for synonymous rate between codon classes CAC and CAT":1.134059970613837,
+       "Mean scaler variable for synonymous rate between codon classes CCA and CCC":0.4080638351514177,
+       "Mean scaler variable for synonymous rate between codon classes CCA and CCG":1.06046324348937,
+       "Mean scaler variable for synonymous rate between codon classes CCA and CCT":1.268213643397417,
+       "Mean scaler variable for synonymous rate between codon classes CCC and CCG":0.9120865174624267,
+       "Mean scaler variable for synonymous rate between codon classes CCC and CCT":0.9796508090220304,
+       "Mean scaler variable for synonymous rate between codon classes CCG and CCT":0.2845811008668545,
+       "Mean scaler variable for synonymous rate between codon classes CGA and CGC":0.9443831829470075,
+       "Mean scaler variable for synonymous rate between codon classes CGA and CGG":1.434038832099797,
+       "Mean scaler variable for synonymous rate between codon classes CGA and CGT":0,
+       "Mean scaler variable for synonymous rate between codon classes CGC and CGG":0.5342424341890891,
+       "Mean scaler variable for synonymous rate between codon classes CGC and CGT":0.7380932368230664,
+       "Mean scaler variable for synonymous rate between codon classes CGG and CGT":2.852135976993789,
+       "Mean scaler variable for synonymous rate between codon classes CTA and CTC":1.056903818423809,
+       "Mean scaler variable for synonymous rate between codon classes CTA and CTG":1.226785312386283,
+       "Mean scaler variable for synonymous rate between codon classes CTA and CTT":0.2509815435681117,
+       "Mean scaler variable for synonymous rate between codon classes CTA and TTA":0.8939460393370023,
+       "Mean scaler variable for synonymous rate between codon classes CTC and CTG":0.7219028091345533,
+       "Mean scaler variable for synonymous rate between codon classes CTC and CTT":0.8415439448113214,
+       "Mean scaler variable for synonymous rate between codon classes CTG and CTT":2.099293354606484,
+       "Mean scaler variable for synonymous rate between codon classes CTG and TTG":0.9669600766977835,
+       "Mean scaler variable for synonymous rate between codon classes GAA and GAG":0.8704778644070186,
+       "Mean scaler variable for synonymous rate between codon classes GAC and GAT":1.079381915107569,
+       "Mean scaler variable for synonymous rate between codon classes GCA and GCC":1.354954771823899,
+       "Mean scaler variable for synonymous rate between codon classes GCA and GCG":0.772126353936033,
+       "Mean scaler variable for synonymous rate between codon classes GCA and GCT":1.52352141622557,
+       "Mean scaler variable for synonymous rate between codon classes GCC and GCG":0.9494388431942877,
+       "Mean scaler variable for synonymous rate between codon classes GCC and GCT":0.8777261844353245,
+       "Mean scaler variable for synonymous rate between codon classes GCG and GCT":1.13723555274868,
+       "Mean scaler variable for synonymous rate between codon classes GGA and GGC":0.4866182778552348,
+       "Mean scaler variable for synonymous rate between codon classes GGA and GGG":0.8657381849423841,
+       "Mean scaler variable for synonymous rate between codon classes GGA and GGT":0.5450032625135137,
+       "Mean scaler variable for synonymous rate between codon classes GGC and GGG":0.7774401379616187,
+       "Mean scaler variable for synonymous rate between codon classes GGC and GGT":0.9953208978359248,
+       "Mean scaler variable for synonymous rate between codon classes GGG and GGT":0.8815110455618128,
+       "Mean scaler variable for synonymous rate between codon classes GTA and GTC":0.6138171821814878,
+       "Mean scaler variable for synonymous rate between codon classes GTA and GTG":1.05671272479137,
+       "Mean scaler variable for synonymous rate between codon classes GTA and GTT":1.352711260745547,
+       "Mean scaler variable for synonymous rate between codon classes GTC and GTG":0.7318364891141085,
+       "Mean scaler variable for synonymous rate between codon classes GTC and GTT":0.8380500182159579,
+       "Mean scaler variable for synonymous rate between codon classes GTG and GTT":1.076708512778423,
+       "Mean scaler variable for synonymous rate between codon classes TAC and TAT":1.057837424002033,
+       "Mean scaler variable for synonymous rate between codon classes TCA and TCC":0.8226077408528987,
+       "Mean scaler variable for synonymous rate between codon classes TCA and TCG":1.38030800351498,
+       "Mean scaler variable for synonymous rate between codon classes TCA and TCT":0.6626868220439867,
+       "Mean scaler variable for synonymous rate between codon classes TCC and TCG":1.155230722024272,
+       "Mean scaler variable for synonymous rate between codon classes TCC and TCT":1.073133063889796,
+       "Mean scaler variable for synonymous rate between codon classes TCG and TCT":1.139153051639401,
+       "Mean scaler variable for synonymous rate between codon classes TGC and TGT":1.728249685139083,
+       "Mean scaler variable for synonymous rate between codon classes TTA and TTG":1.072033265516301,
+       "Mean scaler variable for synonymous rate between codon classes TTC and TTT":0.9553020692457764,
+       "Substitution rate from nucleotide A to nucleotide C":0.4946991021083108,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.5028924549018629,
+       "Substitution rate from nucleotide C to nucleotide G":0.5545158016796246,
+       "Substitution rate from nucleotide C to nucleotide T":1.015373433107487,
+       "Substitution rate from nucleotide G to nucleotide T":0.4274437438687687,
+       "non-synonymous/synonymous rate ratio":0.4774474996657632,
+       "synonymous rate between codon classes AAA and AAG":0.7118654920343158,
+       "synonymous rate between codon classes AAC and AAT":0.6853484219249433,
+       "synonymous rate between codon classes ACA and ACC":0.9409434095624746,
+       "synonymous rate between codon classes ACA and ACG":0.9206932141823977,
+       "synonymous rate between codon classes ACA and ACT":0.8663925813134669,
+       "synonymous rate between codon classes ACC and ACG":0.8698581619781064,
+       "synonymous rate between codon classes ACC and ACT":0.8484634573633817,
+       "synonymous rate between codon classes ACG and ACT":1.02104671076544,
+       "synonymous rate between codon classes AGA and AGG":0.6318248805074222,
+       "synonymous rate between codon classes AGA and CGA":1.55480491304702,
+       "synonymous rate between codon classes AGC and AGT":1.027362356822701,
+       "synonymous rate between codon classes AGG and CGG":0.9499458149911962,
+       "synonymous rate between codon classes ATA and ATC":0.8137411925681596,
+       "synonymous rate between codon classes ATA and ATT":1.261662183252582,
+       "synonymous rate between codon classes ATC and ATT":1.017430190011792,
+       "synonymous rate between codon classes CAA and CAG":0.9824062726795297,
+       "synonymous rate between codon classes CAC and CAT":1.166772646245653,
+       "synonymous rate between codon classes CCA and CCC":0.4198346940321503,
+       "synonymous rate between codon classes CCA and CCG":1.091052975075571,
+       "synonymous rate between codon classes CCA and CCT":1.304796066393838,
+       "synonymous rate between codon classes CCC and CCG":0.9383962287361183,
+       "synonymous rate between codon classes CCC and CCT":1.007909454930005,
+       "synonymous rate between codon classes CCG and CCT":0.2927900223391146,
+       "synonymous rate between codon classes CGA and CGC":0.9716245119211409,
+       "synonymous rate between codon classes CGA and CGG":1.475404587327466,
+       "synonymous rate between codon classes CGA and CGT":0,
+       "synonymous rate between codon classes CGC and CGG":0.5496529943986344,
+       "synonymous rate between codon classes CGC and CGT":0.7593840020981701,
+       "synonymous rate between codon classes CGG and CGT":2.934407639419832,
+       "synonymous rate between codon classes CTA and CTC":1.087390876147407,
+       "synonymous rate between codon classes CTA and CTG":1.262172709026557,
+       "synonymous rate between codon classes CTA and CTT":0.2582212646032102,
+       "synonymous rate between codon classes CTA and TTA":0.9197324770695232,
+       "synonymous rate between codon classes CTC and CTG":0.7427265513041434,
+       "synonymous rate between codon classes CTC and CTT":0.865818811052858,
+       "synonymous rate between codon classes CTG and CTT":2.159848796421521,
+       "synonymous rate between codon classes CTG and TTG":0.9948526504219131,
+       "synonymous rate between codon classes GAA and GAG":0.8955873478213831,
+       "synonymous rate between codon classes GAC and GAT":1.110517367717408,
+       "synonymous rate between codon classes GCA and GCC":1.394039297417783,
+       "synonymous rate between codon classes GCA and GCG":0.7943988259547876,
+       "synonymous rate between codon classes GCA and GCT":1.567468353070661,
+       "synonymous rate between codon classes GCC and GCG":0.976826005879212,
+       "synonymous rate between codon classes GCC and GCT":0.9030447502157946,
+       "synonymous rate between codon classes GCG and GCT":1.170039830051494,
+       "synonymous rate between codon classes GGA and GGC":0.5006550892166084,
+       "synonymous rate between codon classes GGA and GGG":0.8907109493110693,
+       "synonymous rate between codon classes GGA and GGT":0.5607242256079399,
+       "synonymous rate between codon classes GGC and GGG":0.7998658894344681,
+       "synonymous rate between codon classes GGC and GGT":1.024031557346154,
+       "synonymous rate between codon classes GGG and GGT":0.90693878805035,
+       "synonymous rate between codon classes GTA and GTC":0.6315231262217046,
+       "synonymous rate between codon classes GTA and GTG":1.087194270298529,
+       "synonymous rate between codon classes GTA and GTT":1.39173107084635,
+       "synonymous rate between codon classes GTC and GTG":0.7529467745525044,
+       "synonymous rate between codon classes GTC and GTT":0.8622240999396055,
+       "synonymous rate between codon classes GTG and GTT":1.107766849410719,
+       "synonymous rate between codon classes TAC and TAT":1.088351412167795,
+       "synonymous rate between codon classes TCA and TCC":0.846336380339377,
+       "synonymous rate between codon classes TCA and TCG":1.420123859079077,
+       "synonymous rate between codon classes TCA and TCT":0.6818024416908649,
+       "synonymous rate between codon classes TCC and TCG":1.188554081342769,
+       "synonymous rate between codon classes TCC and TCT":1.104088264442199,
+       "synonymous rate between codon classes TCG and TCT":1.172012640407976,
+       "synonymous rate between codon classes TGC and TGT":1.778102138118392,
+       "synonymous rate between codon classes TTA and TTG":1.102956741690467,
+       "synonymous rate between codon classes TTC and TTT":0.9828583603868215
+      },
+     "display order":1,
+     "estimated parameters":102
+    },
+   "Nucleotide GTR":{
+     "AIC-c":30298.00618709086,
+     "Equilibrium frequencies":      [
+[0.2086666666666667],
+      [0.2765277777777778],
+      [0.2679166666666667],
+      [0.2468888888888889] 
+      ],
+     "Log Likelihood":-15119.97890672308,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.4335392531891231,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.4672215882427495,
+       "Substitution rate from nucleotide C to nucleotide G":0.5585354008761071,
+       "Substitution rate from nucleotide C to nucleotide T":1.081772896345061,
+       "Substitution rate from nucleotide G to nucleotide T":0.4018839676525706
+      },
+     "display order":0,
+     "estimated parameters":29
+    }
+  },
+ "input":{
+   "file name":"/data/shares/veg/hverdonk/MSS-sims/droso-vary-seqlength-MG94/MG94.sites1000.replicate.1.nex",
+   "number of sequences":12,
+   "number of sites":1000,
+   "partition count":1,
+   "trees":{
+     "0":"(((D_subpulchrella_1,D_suzukii_1)Node2,D_takahashii_1)Node1,(D_rhopaloa_1,D_elegans_1)Node6,((D_erecta_1,(D_yakuba_1,D_santomea_1)Node12)Node10,((D_sechellia_1,D_mauritiana_1,D_simulans_1)Node16,D_melanogaster_1)Node15)Node9)"
+    }
+  },
+ "test results":0,
+ "tested":{
+   "0":{
+     "D_elegans_1":"test",
+     "D_erecta_1":"test",
+     "D_mauritiana_1":"test",
+     "D_melanogaster_1":"test",
+     "D_rhopaloa_1":"test",
+     "D_santomea_1":"test",
+     "D_sechellia_1":"test",
+     "D_simulans_1":"test",
+     "D_subpulchrella_1":"test",
+     "D_suzukii_1":"test",
+     "D_takahashii_1":"test",
+     "D_yakuba_1":"test",
+     "Node1":"test",
+     "Node10":"test",
+     "Node12":"test",
+     "Node15":"test",
+     "Node16":"test",
+     "Node2":"test",
+     "Node6":"test",
+     "Node9":"test"
+    }
+  },
+ "timers":{
+   "MSS":{
+     "order":null,
+     "timer":29
+    },
+   "Overall":{
+     "order":0,
+     "timer":29
+    }
+  }
+}
