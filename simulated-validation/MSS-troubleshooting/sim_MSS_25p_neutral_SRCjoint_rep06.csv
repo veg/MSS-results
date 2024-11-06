@@ -1,5 +1,6 @@
 rate,MLE
 SynREVCodon_AIC,351653.4025094451
+SynREVCodon_LogLikelihood,-171995.4534974374
 SynREVCodon_omega,0.1133130937162448
 SynREVCodon_non-synonymous/synonymous rate ratio,0.1133130937162448
 SynREVCodon_synonymous rate between codon classes AAA and AAG,0.769060977643716
